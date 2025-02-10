@@ -1,0 +1,7397 @@
+{
+    "nodes": [
+        {
+            "name": "BLOCK02",
+            "position": [
+                230.021802,
+                991.17111
+            ]
+        },
+        {
+            "name": "COLLEGE",
+            "position": [
+                388.275269,
+                918.365767
+            ]
+        },
+        {
+            "name": "12.80M",
+            "position": [
+                28.077135,
+                909.681586
+            ]
+        },
+        {
+            "name": "5.70M",
+            "position": [
+                501.776275,
+                917.667508
+            ]
+        },
+        {
+            "name": "500M",
+            "position": [
+                495.71839,
+                915.987964
+            ]
+        },
+        {
+            "name": "LAB",
+            "position": [
+                256.740125,
+                917.713643
+            ]
+        },
+        {
+            "name": "STAFF  ROOM",
+            "position": [
+                248.39914,
+                921.313364
+            ]
+        },
+        {
+            "name": "WALL  2.10 HIGHT",
+            "position": [
+                311.157686,
+                912.072542
+            ]
+        },
+        {
+            "name": "RAMP",
+            "position": [
+                425.991745,
+                919.588201
+            ]
+        },
+        {
+            "name": "LIBRARY",
+            "position": [
+                108.316285,
+                922.0518
+            ]
+        },
+        {
+            "name": "VERANDAH",
+            "position": [
+                260.875202,
+                922.273119
+            ]
+        },
+        {
+            "name": "ENTRANCE",
+            "position": [
+                249.123284,
+                922.217157
+            ]
+        },
+        {
+            "name": "COMMUNICATION  LAB",
+            "position": [
+                328.894096,
+                900.205465
+            ]
+        },
+        {
+            "name": "STAIRCSE  ROOM",
+            "position": [
+                414.808437,
+                913.519717
+            ]
+        },
+        {
+            "name": "CLASS ROOM",
+            "position": [
+                402.614586,
+                905.253553
+            ]
+        },
+        {
+            "name": "SEMINAR  HALL",
+            "position": [
+                254.620886,
+                911.3327
+            ]
+        },
+        {
+            "name": "W3",
+            "position": [
+                121.791638,
+                917.148191
+            ]
+        },
+        {
+            "name": "D",
+            "position": [
+                485.279989,
+                923.164638
+            ]
+        },
+        {
+            "name": "V1",
+            "position": [
+                249.908372,
+                914.835798
+            ]
+        },
+        {
+            "name": "W3/V5",
+            "position": [
+                398.199848,
+                901.435874
+            ]
+        },
+        {
+            "name": "J",
+            "position": [
+                267.607676,
+                913.244435
+            ]
+        },
+        {
+            "name": "V3",
+            "position": [
+                385.385656,
+                899.63495
+            ]
+        },
+        {
+            "name": "PASSAGE",
+            "position": [
+                250.386516,
+                914.508052
+            ]
+        },
+        {
+            "name": "CLASS  ROOM",
+            "position": [
+                260.4122,
+                910.526624
+            ]
+        },
+        {
+            "name": "UP",
+            "position": [
+                247.576378,
+                922.39548
+            ]
+        },
+        {
+            "name": "STAIRASE  ROOM",
+            "position": [
+                304.992023,
+                920.248586
+            ]
+        },
+        {
+            "name": "STAIR CASE  ROOM",
+            "position": [
+                311.003638,
+                913.197259
+            ]
+        },
+        {
+            "name": "W.C",
+            "position": [
+                262.602172,
+                914.96927
+            ]
+        },
+        {
+            "name": "D1",
+            "position": [
+                250.878409,
+                915.09718
+            ]
+        },
+        {
+            "name": "WASH",
+            "position": [
+                67.04119,
+                917.112352
+            ]
+        },
+        {
+            "name": "(P.C)",
+            "position": [
+                311.089552,
+                912.358711
+            ]
+        },
+        {
+            "name": "\"ALL DIMENSIONS ARE IN METRE''",
+            "position": [
+                506.118811,
+                913.930284
+            ]
+        },
+        {
+            "name": "PLAN = 1:100",
+            "position": [
+                131.018063,
+                914.534209
+            ]
+        },
+        {
+            "name": "%%UAREA  DETAILS:",
+            "position": [
+                43.572631,
+                909.822671
+            ]
+        },
+        {
+            "name": "GROUND  FLOOR :   1715.58 SQ.M",
+            "position": [
+                343.580771,
+                901.968117
+            ]
+        },
+        {
+            "name": "SHEET NO: 14",
+            "position": [
+                345.22867,
+                898.50675
+            ]
+        },
+        {
+            "name": "F.E      -   FIRE  EXTINGUISHER",
+            "position": [
+                269.590259,
+                915.691912
+            ]
+        },
+        {
+            "name": "E.A     -   EMERGENCY  ALARAM.",
+            "position": [
+                43.295885,
+                913.504738
+            ]
+        },
+        {
+            "name": "SCALE",
+            "position": [
+                506.104893,
+                913.793202
+            ]
+        },
+        {
+            "name": "OFFICE USE",
+            "position": [
+                505.799279,
+                915.27234
+            ]
+        },
+        {
+            "name": "Certified that provision shall be made to provide",
+            "position": [
+                43.313768,
+                914.189105
+            ]
+        },
+        {
+            "name": "in  the proposed construction.",
+            "position": [
+                43.527206,
+                914.433623
+            ]
+        },
+        {
+            "name": "rain water harvesting arrangements system",
+            "position": [
+                43.351934,
+                914.315301
+            ]
+        },
+        {
+            "name": "%%UCERTIFICATE",
+            "position": [
+                43.770899,
+                914.045364
+            ]
+        },
+        {
+            "name": "JOINERY DETAILS",
+            "position": [
+                270.366365,
+                913.47323
+            ]
+        },
+        {
+            "name": "TYPE                 SIZE                  DESCRIPTION",
+            "position": [
+                434.417468,
+                902.87883
+            ]
+        },
+        {
+            "name": "W2                    1.20 X 1.50              Window",
+            "position": [
+                434.493495,
+                903.422297
+            ]
+        },
+        {
+            "name": "D                       1.20 X 2.10              Door",
+            "position": [
+                434.487934,
+                903.03886
+            ]
+        },
+        {
+            "name": "D1                     0.90 X 2.10              Door",
+            "position": [
+                434.487934,
+                903.154087
+            ]
+        },
+        {
+            "name": "W3                    1.80 X 1.50              Window",
+            "position": [
+                434.493495,
+                903.291081
+            ]
+        },
+        {
+            "name": "V1                     0.90 X 0.60              Ventilator",
+            "position": [
+                434.493495,
+                903.79892
+            ]
+        },
+        {
+            "name": "J                        1.80 X 1.50              Jally",
+            "position": [
+                434.493495,
+                903.681339
+            ]
+        },
+        {
+            "name": "CD                    4.19 X 2.10              Collapsible  Door",
+            "position": [
+                343.676827,
+                903.389718
+            ]
+        },
+        {
+            "name": "SD",
+            "position": [
+                310.945251,
+                912.420287
+            ]
+        },
+        {
+            "name": "TOILET",
+            "position": [
+                262.736941,
+                914.717254
+            ]
+        },
+        {
+            "name": "BOY'S  TOILET",
+            "position": [
+                385.070551,
+                914.862562
+            ]
+        },
+        {
+            "name": "GIRL'S  TOILET",
+            "position": [
+                385.104404,
+                900.876224
+            ]
+        },
+        {
+            "name": "COMPUTERLAB",
+            "position": [
+                365.371187,
+                900.473559
+            ]
+        },
+        {
+            "name": "W2",
+            "position": [
+                124.330423,
+                918.263185
+            ]
+        },
+        {
+            "name": "CALSS  ROOM",
+            "position": [
+                361.5132,
+                920.008709
+            ]
+        },
+        {
+            "name": "SHEET NO: 15",
+            "position": [
+                373.840206,
+                898.50675
+            ]
+        },
+        {
+            "name": "%%USECOND  FLOOR  PLAN",
+            "position": [
+                260.861821,
+                923.404289
+            ]
+        },
+        {
+            "name": "BOY'S  COMMON  ROOM",
+            "position": [
+                402.292673,
+                900.101789
+            ]
+        },
+        {
+            "name": "EXAM  HALL",
+            "position": [
+                311.431204,
+                902.792242
+            ]
+        },
+        {
+            "name": "%%UTHIRD  FLOOR  PLAN",
+            "position": [
+                401.951592,
+                920.285742
+            ]
+        },
+        {
+            "name": "SEMINAR  HALL&",
+            "position": [
+                398.570833,
+                919.197367
+            ]
+        },
+        {
+            "name": "COMPUTER  LAB",
+            "position": [
+                402.567874,
+                917.301091
+            ]
+        },
+        {
+            "name": "COMPUTER LAB",
+            "position": [
+                109.835221,
+                913.858711
+            ]
+        },
+        {
+            "name": "CONFERENCE  HALL",
+            "position": [
+                384.747709,
+                917.938964
+            ]
+        },
+        {
+            "name": "DN",
+            "position": [
+                259.922926,
+                917.673558
+            ]
+        },
+        {
+            "name": "%%UHEAD  FLOOR  PLAN",
+            "position": [
+                419.873156,
+                921.917243
+            ]
+        },
+        {
+            "name": "DRINKING",
+            "position": [
+                268.204137,
+                921.977625
+            ]
+        },
+        {
+            "name": "WATER  TANK",
+            "position": [
+                268.152206,
+                922.08027
+            ]
+        },
+        {
+            "name": "GROUND",
+            "position": [
+                42.025525,
+                906.897727
+            ]
+        },
+        {
+            "name": "RAIN  WATER  HARVESTING",
+            "position": [
+                267.137448,
+                915.037826
+            ]
+        },
+        {
+            "name": "RECYCLING  TANK",
+            "position": [
+                267.372325,
+                915.135052
+            ]
+        },
+        {
+            "name": "BATH  ROOM",
+            "position": [
+                265.140637,
+                914.345154
+            ]
+        },
+        {
+            "name": "OPEN  TARRACE",
+            "position": [
+                422.757746,
+                919.359993
+            ]
+        },
+        {
+            "name": "EA",
+            "position": [
+                266.800219,
+                913.313446
+            ]
+        },
+        {
+            "name": "FE",
+            "position": [
+                260.044829,
+                922.119252
+            ]
+        },
+        {
+            "name": "3.07X1.52",
+            "position": [
+                385.418843,
+                922.421642
+            ]
+        },
+        {
+            "name": "GW",
+            "position": [
+                300.5208,
+                899.89583
+            ]
+        },
+        {
+            "name": "STAFF",
+            "position": [
+                396.732252,
+                919.107527
+            ]
+        },
+        {
+            "name": "ROOM",
+            "position": [
+                43.544027,
+                907.026209
+            ]
+        },
+        {
+            "name": "STORE",
+            "position": [
+                247.575964,
+                921.348406
+            ]
+        },
+        {
+            "name": "PLACEMENT",
+            "position": [
+                336.171747,
+                919.224435
+            ]
+        },
+        {
+            "name": "STORE  ROOM",
+            "position": [
+                107.220806,
+                917.953609
+            ]
+        },
+        {
+            "name": "BOYS COMMON  ROOM",
+            "position": [
+                393.921318,
+                920.057268
+            ]
+        },
+        {
+            "name": "STAFF ROOM",
+            "position": [
+                293.460998,
+                907.804837
+            ]
+        },
+        {
+            "name": "CLASS ROOM -P.G",
+            "position": [
+                384.828292,
+                912.193671
+            ]
+        },
+        {
+            "name": "3.07x4.46",
+            "position": [
+                386.975381,
+                921.061874
+            ]
+        },
+        {
+            "name": "4.46X3.07",
+            "position": [
+                324.114972,
+                912.563872
+            ]
+        },
+        {
+            "name": "SOLAR  SYSTEM",
+            "position": [
+                266.40703,
+                911.924211
+            ]
+        },
+        {
+            "name": "Lightening  Arrester",
+            "position": [
+                277.448585,
+                915.958822
+            ]
+        },
+        {
+            "name": "Weathering Course",
+            "position": [
+                279.099785,
+                919.231571
+            ]
+        },
+        {
+            "name": "Brick Parapet Wall",
+            "position": [
+                279.103333,
+                919.407904
+            ]
+        },
+        {
+            "name": "R.C.C.Roof Slab 1:2:4",
+            "position": [
+                279.100874,
+                920.619491
+            ]
+        },
+        {
+            "name": "Brick Masonry",
+            "position": [
+                279.103333,
+                920.168601
+            ]
+        },
+        {
+            "name": "R.C.C  Lintel 1:2:4",
+            "position": [
+                279.101904,
+                920.788319
+            ]
+        },
+        {
+            "name": "G.L",
+            "position": [
+                480.193542,
+                918.81787
+            ]
+        },
+        {
+            "name": "Flooring Concrete",
+            "position": [
+                279.10217,
+                921.01079
+            ]
+        },
+        {
+            "name": "Floor Finishing",
+            "position": [
+                140.67883,
+                922.349469
+            ]
+        },
+        {
+            "name": "Earth Filling",
+            "position": [
+                279.10217,
+                921.096929
+            ]
+        },
+        {
+            "name": "%%USECTION ON A-B",
+            "position": [
+                463.901504,
+                923.101691
+            ]
+        },
+        {
+            "name": "V3                      1.80X 0.60              Ventilator",
+            "position": [
+                405.141582,
+                904.221478
+            ]
+        },
+        {
+            "name": "GW                   2.44 X 1.50              G.Window",
+            "position": [
+                434.498591,
+                903.547086
+            ]
+        },
+        {
+            "name": "A",
+            "position": [
+                484.089259,
+                922.08556
+            ]
+        },
+        {
+            "name": "B",
+            "position": [
+                484.419845,
+                923.094155
+            ]
+        },
+        {
+            "name": "%%UELEVATION",
+            "position": [
+                276.362708,
+                918.566879
+            ]
+        },
+        {
+            "name": "S",
+            "position": [
+                456.996595,
+                916.642519
+            ]
+        },
+        {
+            "name": "T",
+            "position": [
+                455.977002,
+                916.639314
+            ]
+        },
+        {
+            "name": "E",
+            "position": [
+                456.074186,
+                916.619972
+            ]
+        },
+        {
+            "name": "L",
+            "position": [
+                456.25251,
+                916.585102
+            ]
+        },
+        {
+            "name": "Y'",
+            "position": [
+                456.895105,
+                916.620572
+            ]
+        },
+        {
+            "name": "R",
+            "position": [
+                456.805941,
+                916.603907
+            ]
+        },
+        {
+            "name": "M",
+            "position": [
+                456.589002,
+                916.561265
+            ]
+        },
+        {
+            "name": "COLLEGE  OF  ENGINEERING",
+            "position": [
+                455.936359,
+                916.743078
+            ]
+        },
+        {
+            "name": "SHEET NO: 18",
+            "position": [
+                471.662736,
+                916.057561
+            ]
+        },
+        {
+            "name": "%%UGROUND  FLOOR  PLAN",
+            "position": [
+                249.175475,
+                923.436354
+            ]
+        },
+        {
+            "name": "%%UFIRST  FLOOR  PLAN",
+            "position": [
+                254.99671,
+                923.425007
+            ]
+        },
+        {
+            "name": "FIRST  FLOOR       :   3551.59 SQ.M",
+            "position": [
+                343.580771,
+                902.149914
+            ]
+        },
+        {
+            "name": "FIRST  FLOOR         :   1715.58 SQ.M",
+            "position": [
+                372.203322,
+                902.026117
+            ]
+        },
+        {
+            "name": "SECOND  FLOOR    :   3551.59 SQ.M",
+            "position": [
+                372.203322,
+                902.207914
+            ]
+        },
+        {
+            "name": "EMERGENCY  OPEN STAIRCASE",
+            "position": [
+                399.964231,
+                917.297222
+            ]
+        },
+        {
+            "name": "OPEN STAIRCASE",
+            "position": [
+                389.296487,
+                902.304878
+            ]
+        },
+        {
+            "name": "V5                      1.80X 0.80              Ventilator",
+            "position": [
+                405.138948,
+                904.329922
+            ]
+        },
+        {
+            "name": "Expansion joint",
+            "position": [
+                106.904633,
+                914.362907
+            ]
+        },
+        {
+            "name": "%%UCOLLEGE  BUILDING : BLOCK %%OV1",
+            "position": [
+                469.964022,
+                916.240255
+            ]
+        },
+        {
+            "name": "0 LEVEL",
+            "position": [
+                291.67534,
+                908.006994
+            ]
+        },
+        {
+            "name": "+4.05 LEVEL",
+            "position": [
+                320.930514,
+                907.513238
+            ]
+        },
+        {
+            "name": "+3.56 LEVEL",
+            "position": [
+                445.356572,
+                921.546373
+            ]
+        },
+        {
+            "name": "%%U0 LEVEL",
+            "position": [
+                323.680646,
+                923.133314
+            ]
+        },
+        {
+            "name": "%%U+3.56  LEVEL",
+            "position": [
+                352.545276,
+                923.26993
+            ]
+        },
+        {
+            "name": "%%UPROPOSED  PLINTH  AREA: (COLLEGE  BLDG.)",
+            "position": [
+                434.347549,
+                901.796959
+            ]
+        },
+        {
+            "name": "HANDRAIL 0.12M Tk., 1.00M Ht.",
+            "position": [
+                179.576227,
+                920.779827
+            ]
+        },
+        {
+            "name": "PARAPET WALL 0.12M Tk., 1.00M Ht.",
+            "position": [
+                427.164183,
+                917.495188
+            ]
+        },
+        {
+            "name": "EX",
+            "position": [
+                294.655539,
+                903.292425
+            ]
+        },
+        {
+            "name": "E.X     -   EXHAUST FAN.",
+            "position": [
+                405.008659,
+                904.969067
+            ]
+        },
+        {
+            "name": "RAMP  1:12 RATIO",
+            "position": [
+                311.164166,
+                920.636065
+            ]
+        },
+        {
+            "name": "SD                     1.20 X 2.10              Sliding Door",
+            "position": [
+                314.021625,
+                904.228001
+            ]
+        },
+        {
+            "name": "STAIRCASE  ROOM",
+            "position": [
+                303.94527,
+                901.573978
+            ]
+        },
+        {
+            "name": "V.I.P  ROOM",
+            "position": [
+                305.852851,
+                919.629574
+            ]
+        },
+        {
+            "name": "R.C.C  RETAINING  WALL",
+            "position": [
+                310.071244,
+                914.905809
+            ]
+        },
+        {
+            "name": "3.07X2.44",
+            "position": [
+                305.697125,
+                920.497038
+            ]
+        },
+        {
+            "name": "CONFERANCE  HALL",
+            "position": [
+                307.842083,
+                919.430889
+            ]
+        },
+        {
+            "name": "CANTEEN",
+            "position": [
+                56.906839,
+                914.080302
+            ]
+        },
+        {
+            "name": "DRAWING  HALL",
+            "position": [
+                118.813225,
+                919.081864
+            ]
+        },
+        {
+            "name": "GW/V2",
+            "position": [
+                312.680094,
+                918.848242
+            ]
+        },
+        {
+            "name": "GIRLS  COMMON  ROOM",
+            "position": [
+                306.554485,
+                900.736488
+            ]
+        },
+        {
+            "name": "MAINTENANCE ROOM",
+            "position": [
+                300.65029,
+                901.388809
+            ]
+        },
+        {
+            "name": "MEDICAL CUM SICK ROOM",
+            "position": [
+                300.078324,
+                901.524546
+            ]
+        },
+        {
+            "name": "D2",
+            "position": [
+                106.396932,
+                917.573131
+            ]
+        },
+        {
+            "name": "BOYS  COMMON  ROOM",
+            "position": [
+                297.71228,
+                900.837324
+            ]
+        },
+        {
+            "name": "INDOOR GAME",
+            "position": [
+                293.995055,
+                900.766695
+            ]
+        },
+        {
+            "name": "STACK  ROOM",
+            "position": [
+                293.671626,
+                902.519133
+            ]
+        },
+        {
+            "name": "GW1",
+            "position": [
+                293.738135,
+                907.423882
+            ]
+        },
+        {
+            "name": "VERANDAH  3.00m wide",
+            "position": [
+                293.896797,
+                901.900794
+            ]
+        },
+        {
+            "name": "GW2/V4",
+            "position": [
+                301.616517,
+                899.894516
+            ]
+        },
+        {
+            "name": "GW2",
+            "position": [
+                309.897232,
+                920.025709
+            ]
+        },
+        {
+            "name": "GIRLS TOILET",
+            "position": [
+                311.157686,
+                911.917994
+            ]
+        },
+        {
+            "name": "CD1",
+            "position": [
+                310.55951,
+                919.785812
+            ]
+        },
+        {
+            "name": "CD",
+            "position": [
+                248.63132,
+                921.939118
+            ]
+        },
+        {
+            "name": "PLAN = 1:200",
+            "position": [
+                315.296014,
+                905.488958
+            ]
+        },
+        {
+            "name": "GROUND  FLOOR      :   3551.59 SQ.M",
+            "position": [
+                313.92055,
+                902.639315
+            ]
+        },
+        {
+            "name": "SHEET NO: 13",
+            "position": [
+                315.568449,
+                899.093602
+            ]
+        },
+        {
+            "name": "GW1                 1.22 X 1.50              G.Window",
+            "position": [
+                314.022166,
+                904.747373
+            ]
+        },
+        {
+            "name": "GW2                 3.00 X 1.50              G.Window",
+            "position": [
+                314.022166,
+                904.861818
+            ]
+        },
+        {
+            "name": "V4                     3.00 X 0.80              Ventilator",
+            "position": [
+                314.022166,
+                905.325041
+            ]
+        },
+        {
+            "name": "V2                     2.44 X 0.80              Ventilator",
+            "position": [
+                314.022166,
+                905.226073
+            ]
+        },
+        {
+            "name": "CD                     2.44 X 2.10              Collapsible Door",
+            "position": [
+                314.016606,
+                903.967789
+            ]
+        },
+        {
+            "name": "CD1                   3.00 X 2.10              Collapsible Door",
+            "position": [
+                314.016606,
+                904.075438
+            ]
+        },
+        {
+            "name": "SHEET NO: 16",
+            "position": [
+                406.686533,
+                898.50675
+            ]
+        },
+        {
+            "name": "SECOND  FLOOR :   1715.58 SQ.M",
+            "position": [
+                405.077937,
+                901.980472
+            ]
+        },
+        {
+            "name": "THIRD  FLOOR    :   3551.59 SQ.M",
+            "position": [
+                405.077937,
+                902.162269
+            ]
+        },
+        {
+            "name": "SHEET NO: 17",
+            "position": [
+                436.039778,
+                898.50675
+            ]
+        },
+        {
+            "name": "HEAD  ROOM      :   509.38 SQ.M",
+            "position": [
+                434.398598,
+                901.979602
+            ]
+        },
+        {
+            "name": "Mr.NAZERATH CHARLES,",
+            "position": [
+                281.489807,
+                921.521765
+            ]
+        },
+        {
+            "name": "NOVA EDUCATIONAL TRUST,",
+            "position": [
+                505.790028,
+                922.51852
+            ]
+        },
+        {
+            "name": "MANAVAZHA KURUCHI.",
+            "position": [
+                281.505457,
+                921.819259
+            ]
+        },
+        {
+            "name": "MANAGING TRUSTEE,",
+            "position": [
+                505.790028,
+                922.430722
+            ]
+        },
+        {
+            "name": "DATE : 07-11-2019 (S-I)",
+            "position": [
+                46.7971,
+                923.596408
+            ]
+        },
+        {
+            "name": "STRUCTURAL  ENGINEER",
+            "position": [
+                46.493769,
+                922.441348
+            ]
+        },
+        {
+            "name": "ARCHITECTURAL  ENGINEER",
+            "position": [
+                45.323445,
+                922.439273
+            ]
+        },
+        {
+            "name": "APPLICANT",
+            "position": [
+                505.779477,
+                923.343486
+            ]
+        },
+        {
+            "name": "REGISTERED  ENGINEER",
+            "position": [
+                507.000096,
+                923.361217
+            ]
+        },
+        {
+            "name": "SPORTS  CLUB",
+            "position": [
+                78.146434,
+                921.565323
+            ]
+        },
+        {
+            "name": "SKYLIGHT  ABOVE",
+            "position": [
+                90.425257,
+                915.574445
+            ]
+        },
+        {
+            "name": "BOYS COMMON ROOM",
+            "position": [
+                101.210186,
+                911.420844
+            ]
+        },
+        {
+            "name": "COURT YARD",
+            "position": [
+                64.339785,
+                918.729519
+            ]
+        },
+        {
+            "name": "LIFT",
+            "position": [
+                120.258199,
+                910.969284
+            ]
+        },
+        {
+            "name": "LD",
+            "position": [
+                120.349946,
+                911.203526
+            ]
+        },
+        {
+            "name": "D3",
+            "position": [
+                102.81889,
+                911.322839
+            ]
+        },
+        {
+            "name": "V",
+            "position": [
+                262.868011,
+                915.454096
+            ]
+        },
+        {
+            "name": "W",
+            "position": [
+                260.043021,
+                922.287096
+            ]
+        },
+        {
+            "name": "WAITING",
+            "position": [
+                63.911121,
+                918.473044
+            ]
+        },
+        {
+            "name": "CORRIDOR",
+            "position": [
+                54.105694,
+                917.294583
+            ]
+        },
+        {
+            "name": "%%UHEAD  ROOM  PLAN",
+            "position": [
+                266.343716,
+                922.393814
+            ]
+        },
+        {
+            "name": "OPEN  TERRACE",
+            "position": [
+                266.772999,
+                918.359034
+            ]
+        },
+        {
+            "name": "%%UEXG.FIRST  FLOOR  PLAN",
+            "position": [
+                64.16461,
+                919.755742
+            ]
+        },
+        {
+            "name": "P.R.O  ROOM",
+            "position": [
+                53.419068,
+                914.289984
+            ]
+        },
+        {
+            "name": "14.25X8.77",
+            "position": [
+                52.127168,
+                918.943238
+            ]
+        },
+        {
+            "name": "DIRECTOR",
+            "position": [
+                57.830895,
+                919.316237
+            ]
+        },
+        {
+            "name": "STORE & PRINCIPAL",
+            "position": [
+                53.369292,
+                915.08023
+            ]
+        },
+        {
+            "name": "PRINCIPAL  ROOM",
+            "position": [
+                53.355806,
+                916.420726
+            ]
+        },
+        {
+            "name": "URINALS",
+            "position": [
+                261.875185,
+                914.774954
+            ]
+        },
+        {
+            "name": "%%UEXG.GROUND  FLOOR  PLAN",
+            "position": [
+                54.405306,
+                921.291926
+            ]
+        },
+        {
+            "name": "SICK  ROOM",
+            "position": [
+                63.039336,
+                914.281494
+            ]
+        },
+        {
+            "name": "LAB - III",
+            "position": [
+                63.176694,
+                916.012398
+            ]
+        },
+        {
+            "name": "CENTRAL  STORE",
+            "position": [
+                66.133317,
+                916.321582
+            ]
+        },
+        {
+            "name": "W1",
+            "position": [
+                175.814323,
+                921.327007
+            ]
+        },
+        {
+            "name": "RS",
+            "position": [
+                248.051974,
+                913.002437
+            ]
+        },
+        {
+            "name": "TYPE                   SIZE                   DESCRIPTION",
+            "position": [
+                130.201222,
+                915.020386
+            ]
+        },
+        {
+            "name": "W1                    1.50 X 1.50                  Window",
+            "position": [
+                94.385231,
+                915.8518
+            ]
+        },
+        {
+            "name": "V                       0.90 X 0.60                  Ventilator",
+            "position": [
+                130.291713,
+                916.568888
+            ]
+        },
+        {
+            "name": "W                      1.80 X 1.50                  Window",
+            "position": [
+                94.385231,
+                915.713446
+            ]
+        },
+        {
+            "name": "D                       1.80 X 2.10                  Door",
+            "position": [
+                94.380765,
+                915.135862
+            ]
+        },
+        {
+            "name": "D1                     1.20 X 2.10                  Door",
+            "position": [
+                94.380765,
+                915.273243
+            ]
+        },
+        {
+            "name": "D2                     0.90 X 2.10                  Door",
+            "position": [
+                94.380765,
+                915.413769
+            ]
+        },
+        {
+            "name": "D3                     0.75 X 2.10                  Door",
+            "position": [
+                94.380765,
+                915.558816
+            ]
+        },
+        {
+            "name": "SHEET NO : 3",
+            "position": [
+                95.977881,
+                908.867304
+            ]
+        },
+        {
+            "name": "SHEET NO : 2",
+            "position": [
+                71.107675,
+                908.863352
+            ]
+        },
+        {
+            "name": "O.T.S",
+            "position": [
+                64.522788,
+                916.280381
+            ]
+        },
+        {
+            "name": "CHAIRMAN",
+            "position": [
+                56.340455,
+                916.670094
+            ]
+        },
+        {
+            "name": "W2                    1.20 X 1.50                  Window",
+            "position": [
+                130.291713,
+                916.153454
+            ]
+        },
+        {
+            "name": "V1                     1.20 X 0.60                  Ventilator",
+            "position": [
+                94.385231,
+                916.284594
+            ]
+        },
+        {
+            "name": "%%UPROPOSED  PLINTH  AREA",
+            "position": [
+                94.251216,
+                913.177554
+            ]
+        },
+        {
+            "name": "SECOND  FLOOR                 : 674.28 SQ.M.",
+            "position": [
+                94.235157,
+                913.385804
+            ]
+        },
+        {
+            "name": "LD                     1.00 X 2.10                  Lift Door",
+            "position": [
+                69.461826,
+                915.076904
+            ]
+        },
+        {
+            "name": "LUMPER",
+            "position": [
+                82.557763,
+                919.044965
+            ]
+        },
+        {
+            "name": "%%UEXISTING  PLINTH  AREA:",
+            "position": [
+                130.158356,
+                912.333185
+            ]
+        },
+        {
+            "name": "SECOND  FLOOR                 :   661.34 SQ.M.",
+            "position": [
+                94.235157,
+                912.736618
+            ]
+        },
+        {
+            "name": "HEAD  ROOM                       :     6.83 SQ.M.",
+            "position": [
+                94.235157,
+                912.906715
+            ]
+        },
+        {
+            "name": "O.T.S ABOVE",
+            "position": [
+                81.128587,
+                918.497347
+            ]
+        },
+        {
+            "name": "%%UADMINISTRATIVE  BUILDING :BLOCK - I",
+            "position": [
+                69.268404,
+                909.025606
+            ]
+        },
+        {
+            "name": "%%UADMINISTRATIVE  BUILDING : BLOCK - I",
+            "position": [
+                94.113722,
+                909.090509
+            ]
+        },
+        {
+            "name": "%%U(ADMINISTRATIVE  BUILDING  BLOCK - I)",
+            "position": [
+                69.376286,
+                912.563413
+            ]
+        },
+        {
+            "name": "GROUND  FLOOR                : 1335.62 SQ.M.",
+            "position": [
+                69.360228,
+                912.787139
+            ]
+        },
+        {
+            "name": "FIRST  FLOOR                      : 1335.62 SQ.M.",
+            "position": [
+                69.360228,
+                912.953479
+            ]
+        },
+        {
+            "name": "BE REMOVED",
+            "position": [
+                81.881977,
+                919.631678
+            ]
+        },
+        {
+            "name": "EXG.WALL TO",
+            "position": [
+                81.881977,
+                919.566526
+            ]
+        },
+        {
+            "name": "%%UPROPOSED",
+            "position": [
+                80.842874,
+                917.409017
+            ]
+        },
+        {
+            "name": "LANDING",
+            "position": [
+                267.953794,
+                913.828373
+            ]
+        },
+        {
+            "name": "ACCOUND",
+            "position": [
+                51.272636,
+                917.89311
+            ]
+        },
+        {
+            "name": "MANAGER",
+            "position": [
+                51.265307,
+                917.996346
+            ]
+        },
+        {
+            "name": "VICE",
+            "position": [
+                56.489563,
+                916.551962
+            ]
+        },
+        {
+            "name": "DINING  ROOM",
+            "position": [
+                53.451295,
+                915.213362
+            ]
+        },
+        {
+            "name": "Maintanance",
+            "position": [
+                54.994737,
+                915.938051
+            ]
+        },
+        {
+            "name": "Room",
+            "position": [
+                29.055956,
+                914.999635
+            ]
+        },
+        {
+            "name": "RS                     2.44 X 2.10                  Rooling Shutter",
+            "position": [
+                69.461826,
+                915.205451
+            ]
+        },
+        {
+            "name": "2.44X3.93",
+            "position": [
+                50.773605,
+                918.464905
+            ]
+        },
+        {
+            "name": "4.48X3.93",
+            "position": [
+                51.271968,
+                918.263494
+            ]
+        },
+        {
+            "name": "OFFICE",
+            "position": [
+                52.186812,
+                918.804191
+            ]
+        },
+        {
+            "name": "HEAD  ROOM                       :     9.66 SQ.M.",
+            "position": [
+                94.235157,
+                913.551769
+            ]
+        },
+        {
+            "name": "A/C  PROVIDED",
+            "position": [
+                82.480773,
+                916.480452
+            ]
+        },
+        {
+            "name": "GL",
+            "position": [
+                145.589182,
+                919.424555
+            ]
+        },
+        {
+            "name": "Brick  Work  in  c.m 1:6 mix",
+            "position": [
+                140.898067,
+                921.6129
+            ]
+        },
+        {
+            "name": "Brick Parapet Wall 0.23m Tk. 1.00M Ht.",
+            "position": [
+                135.321001,
+                920.54372
+            ]
+        },
+        {
+            "name": "%%USECTION  ON  'AB'",
+            "position": [
+                276.217206,
+                921.83963
+            ]
+        },
+        {
+            "name": "Lift Machineries",
+            "position": [
+                136.140152,
+                917.050956
+            ]
+        },
+        {
+            "name": "%%U Mr.NAZERATH CHARLES,",
+            "position": [
+                145.672668,
+                922.597971
+            ]
+        },
+        {
+            "name": "LECTURE  HALL",
+            "position": [
+                123.121547,
+                919.808913
+            ]
+        },
+        {
+            "name": "%%UEXG. GROUND  FLOOR  PLAN",
+            "position": [
+                105.703605,
+                923.291268
+            ]
+        },
+        {
+            "name": "MD",
+            "position": [
+                102.794071,
+                918.31752
+            ]
+        },
+        {
+            "name": "HOUSE  KEEPING",
+            "position": [
+                109.444548,
+                918.333355
+            ]
+        },
+        {
+            "name": "MAINTENANCE",
+            "position": [
+                107.241172,
+                910.942867
+            ]
+        },
+        {
+            "name": "GIRLS  TOILET",
+            "position": [
+                126.702276,
+                917.825261
+            ]
+        },
+        {
+            "name": "STAFF  TOILET",
+            "position": [
+                262.018665,
+                915.40356
+            ]
+        },
+        {
+            "name": "V1/V1",
+            "position": [
+                110.262343,
+                911.214198
+            ]
+        },
+        {
+            "name": "W/V2",
+            "position": [
+                263.656881,
+                920.75141
+            ]
+        },
+        {
+            "name": "UPS ROOM",
+            "position": [
+                126.635257,
+                918.496556
+            ]
+        },
+        {
+            "name": "OPEN TERRACE",
+            "position": [
+                127.159057,
+                913.686662
+            ]
+        },
+        {
+            "name": "Parapet Wall 0.23m Tk. 1.00M Ht.",
+            "position": [
+                125.730973,
+                914.124727
+            ]
+        },
+        {
+            "name": "SHEET NO : 4",
+            "position": [
+                114.614673,
+                908.875907
+            ]
+        },
+        {
+            "name": "SHEET NO : 5",
+            "position": [
+                131.854501,
+                908.867454
+            ]
+        },
+        {
+            "name": "W1                    1.80 X 1.50                  Window",
+            "position": [
+                130.291713,
+                916.020237
+            ]
+        },
+        {
+            "name": "W                      2.40 X 1.50                  Window",
+            "position": [
+                130.291713,
+                915.881884
+            ]
+        },
+        {
+            "name": "D                       1.20 X 2.10                  Door",
+            "position": [
+                130.287247,
+                915.3043
+            ]
+        },
+        {
+            "name": "D1                     0.90 X 2.10                  Door",
+            "position": [
+                130.287247,
+                915.441681
+            ]
+        },
+        {
+            "name": "D2                     0.75 X 2.10                  Door",
+            "position": [
+                130.287247,
+                915.582207
+            ]
+        },
+        {
+            "name": "D3                     1.50 X 2.10                  Door",
+            "position": [
+                130.287247,
+                915.727254
+            ]
+        },
+        {
+            "name": "V1                     1.80 X 0.60                  Ventilator",
+            "position": [
+                130.291713,
+                916.724179
+            ]
+        },
+        {
+            "name": "MD                    1.80 X 2.10                  Main Door",
+            "position": [
+                130.287247,
+                915.160952
+            ]
+        },
+        {
+            "name": "W3                    1.50 X 1.50                  Window",
+            "position": [
+                130.291713,
+                916.286772
+            ]
+        },
+        {
+            "name": "W4                    0.74 X 1.50                  Window",
+            "position": [
+                130.291713,
+                916.439071
+            ]
+        },
+        {
+            "name": "V2                     2.40 X 0.86                  Ventilator",
+            "position": [
+                130.291713,
+                916.859128
+            ]
+        },
+        {
+            "name": "VERANDAH  2.50 M",
+            "position": [
+                120.448464,
+                920.216194
+            ]
+        },
+        {
+            "name": "%%UADMINISTRATIVE  BUILDING : BLOCK - II",
+            "position": [
+                145.714329,
+                916.720742
+            ]
+        },
+        {
+            "name": "SCALE = 1:100",
+            "position": [
+                283.130437,
+                919.221261
+            ]
+        },
+        {
+            "name": "SHEET NO : 6",
+            "position": [
+                147.563507,
+                916.463056
+            ]
+        },
+        {
+            "name": "%%U(ADMINISTRATIVE  BUILDING  BLOCK - II)",
+            "position": [
+                130.158356,
+                912.482748
+            ]
+        },
+        {
+            "name": "GROUND  FLOOR                : 1241.54 SQ.M.",
+            "position": [
+                112.899216,
+                912.756575
+            ]
+        },
+        {
+            "name": "FIRST  FLOOR                      : 1241.54 SQ.M.",
+            "position": [
+                112.899216,
+                912.922915
+            ]
+        },
+        {
+            "name": "HEAD  ROOM                       :     33.58 SQ.M.",
+            "position": [
+                130.162654,
+                913.610625
+            ]
+        },
+        {
+            "name": "%%UPROPOSED  PLINTH  AREA:",
+            "position": [
+                130.158356,
+                913.308722
+            ]
+        },
+        {
+            "name": "SECOND  FLOOR                 :   649.80 SQ.M.",
+            "position": [
+                130.162654,
+                913.459824
+            ]
+        },
+        {
+            "name": "SECOND  FLOOR                 :   591.74 SQ.M.",
+            "position": [
+                130.162654,
+                912.733183
+            ]
+        },
+        {
+            "name": "HEAD  ROOM                       :     24.11 SQ.M.",
+            "position": [
+                130.162654,
+                912.91214
+            ]
+        },
+        {
+            "name": "TOTAL  PLINTH  AREA      : 3098.93 SQ.M.",
+            "position": [
+                130.15762,
+                913.069517
+            ]
+        },
+        {
+            "name": "J                        1.80 X 1.50                  Jally",
+            "position": [
+                113.028275,
+                915.840629
+            ]
+        },
+        {
+            "name": "DIGITAL",
+            "position": [
+                108.330753,
+                921.92996
+            ]
+        },
+        {
+            "name": "XEROX",
+            "position": [
+                108.341525,
+                921.023151
+            ]
+        },
+        {
+            "name": "LIBRARIAN",
+            "position": [
+                108.292638,
+                920.427678
+            ]
+        },
+        {
+            "name": "COUNTER",
+            "position": [
+                108.32302,
+                919.755486
+            ]
+        },
+        {
+            "name": "FACULTY ROOM",
+            "position": [
+                105.571584,
+                910.651517
+            ]
+        },
+        {
+            "name": "GIRLS  COMMON ROOM",
+            "position": [
+                122.922926,
+                917.813028
+            ]
+        },
+        {
+            "name": "AUDITORIUM",
+            "position": [
+                127.226451,
+                921.107757
+            ]
+        },
+        {
+            "name": "OVER HEAD",
+            "position": [
+                124.205961,
+                911.005579
+            ]
+        },
+        {
+            "name": "3.34x7.69",
+            "position": [
+                108.316285,
+                922.185379
+            ]
+        },
+        {
+            "name": "3.34x3.20",
+            "position": [
+                108.316285,
+                921.153109
+            ]
+        },
+        {
+            "name": "3.34x3.64",
+            "position": [
+                108.316285,
+                920.560244
+            ]
+        },
+        {
+            "name": "3.34x3.67",
+            "position": [
+                108.316285,
+                919.894115
+            ]
+        },
+        {
+            "name": "HANDRAIL 0.23M Tk., 1.00M Ht.",
+            "position": [
+                120.72577,
+                921.25266
+            ]
+        },
+        {
+            "name": "TANK",
+            "position": [
+                484.951299,
+                923.163739
+            ]
+        },
+        {
+            "name": "%%USIDE  ELEVATION",
+            "position": [
+                177.740352,
+                913.603691
+            ]
+        },
+        {
+            "name": "O",
+            "position": [
+                153.921047,
+                917.028024
+            ]
+        },
+        {
+            "name": "KITCHEN",
+            "position": [
+                152.007381,
+                919.62018
+            ]
+        },
+        {
+            "name": "VERANDAH    2.40 M",
+            "position": [
+                157.231039,
+                916.241709
+            ]
+        },
+        {
+            "name": "PORCH",
+            "position": [
+                164.507419,
+                920.820839
+            ]
+        },
+        {
+            "name": "EXPANSION JOINT",
+            "position": [
+                251.347097,
+                913.783096
+            ]
+        },
+        {
+            "name": "C.D",
+            "position": [
+                163.978524,
+                920.501377
+            ]
+        },
+        {
+            "name": "VERANDAH    2.45 M",
+            "position": [
+                221.261809,
+                920.108569
+            ]
+        },
+        {
+            "name": "AO",
+            "position": [
+                200.69225,
+                918.403465
+            ]
+        },
+        {
+            "name": "%%UBOYS  HOSTEL  BUILDING",
+            "position": [
+                224.826207,
+                923.456569
+            ]
+        },
+        {
+            "name": "TYPE                     SIZE                  DESCRIPTION",
+            "position": [
+                239.796849,
+                913.234525
+            ]
+        },
+        {
+            "name": "D                       1.20 X 2.10           Door",
+            "position": [
+                239.878326,
+                913.408671
+            ]
+        },
+        {
+            "name": "W                      2.00 X 1.50           Window",
+            "position": [
+                239.882792,
+                913.682278
+            ]
+        },
+        {
+            "name": "GROUND  FLOOR          : 1578.31 SQ.M.",
+            "position": [
+                214.340841,
+                913.39021
+            ]
+        },
+        {
+            "name": "FIRST  FLOOR                : 1578.31 SQ.M.",
+            "position": [
+                214.34948,
+                913.540746
+            ]
+        },
+        {
+            "name": "%%UPROPOSED PLINTH AREA (BOYS  HOSTEL BLDG):",
+            "position": [
+                239.771283,
+                912.255789
+            ]
+        },
+        {
+            "name": "D1                     0.90 X 2.10           Door",
+            "position": [
+                239.878326,
+                913.544376
+            ]
+        },
+        {
+            "name": "W1                    1.20 X 1.50           Window",
+            "position": [
+                239.882792,
+                913.815913
+            ]
+        },
+        {
+            "name": "V                       0.90 X 0.60           Ventilater",
+            "position": [
+                239.882792,
+                913.963098
+            ]
+        },
+        {
+            "name": "O                       1.00 X 2.10           Open",
+            "position": [
+                239.882792,
+                914.220519
+            ]
+        },
+        {
+            "name": "C.D                   4.00 X 2.10           Collapsible  Door",
+            "position": [
+                239.882792,
+                914.496666
+            ]
+        },
+        {
+            "name": "OPEN  TO  SKY",
+            "position": [
+                156.654778,
+                920.879276
+            ]
+        },
+        {
+            "name": "AO                    3.00 X 2.10           Open",
+            "position": [
+                239.882792,
+                914.343611
+            ]
+        },
+        {
+            "name": "DINING",
+            "position": [
+                152.007381,
+                921.203593
+            ]
+        },
+        {
+            "name": "PARAPET  WALL  0.23 TK, 1.00 M  Ht.",
+            "position": [
+                177.177839,
+                920.630116
+            ]
+        },
+        {
+            "name": "%%UFRONT  ELEVATION",
+            "position": [
+                186.909648,
+                913.63792
+            ]
+        },
+        {
+            "name": "EMERGENCY  OPEN  STAIR",
+            "position": [
+                259.5014,
+                908.816011
+            ]
+        },
+        {
+            "name": "OPEN  STAIRCASE",
+            "position": [
+                181.433399,
+                920.611067
+            ]
+        },
+        {
+            "name": "STUDY  HALL",
+            "position": [
+                151.823848,
+                915.860534
+            ]
+        },
+        {
+            "name": "INDOOR  GAMES",
+            "position": [
+                164.289794,
+                915.807828
+            ]
+        },
+        {
+            "name": "STUDY  HALL  CUM",
+            "position": [
+                171.334774,
+                920.671151
+            ]
+        },
+        {
+            "name": "STUDY  ROOM",
+            "position": [
+                183.980476,
+                920.723217
+            ]
+        },
+        {
+            "name": "NO  OF  ROOMS - 36",
+            "position": [
+                239.779612,
+                912.936383
+            ]
+        },
+        {
+            "name": "%%UBOYS  HOSTEL BUILDING : BLOCK - IV",
+            "position": [
+                239.729626,
+                908.394182
+            ]
+        },
+        {
+            "name": "SECOND  FLOOR           : 1578.31 SQ.M.",
+            "position": [
+                239.766969,
+                912.438724
+            ]
+        },
+        {
+            "name": "HEAD  ROOM                 :   160.21 SQ.M.",
+            "position": [
+                239.766969,
+                912.590465
+            ]
+        },
+        {
+            "name": "V1                     1.80 X 1.00           Ventilater",
+            "position": [
+                239.882792,
+                914.089331
+            ]
+        },
+        {
+            "name": "WARDEN",
+            "position": [
+                210.599861,
+                915.021703
+            ]
+        },
+        {
+            "name": "EMERGENCY  STAIR",
+            "position": [
+                201.401048,
+                911.7204
+            ]
+        },
+        {
+            "name": "SHEET NO : 9",
+            "position": [
+                216.122829,
+                909.817901
+            ]
+        },
+        {
+            "name": "SHEET NO : 10",
+            "position": [
+                241.549299,
+                908.213677
+            ]
+        },
+        {
+            "name": "RAMP 1:12 RATIO",
+            "position": [
+                247.830379,
+                922.591028
+            ]
+        },
+        {
+            "name": "HANDRAIL 0.12MTk., 1.00M Ht.",
+            "position": [
+                224.943239,
+                919.319875
+            ]
+        },
+        {
+            "name": "Floor Finishing in C.M1:3",
+            "position": [
+                279.10217,
+                920.910997
+            ]
+        },
+        {
+            "name": "0.23m Tk. 1.00M Ht.",
+            "position": [
+                279.103333,
+                919.501147
+            ]
+        },
+        {
+            "name": "WARDEN  ROOM",
+            "position": [
+                162.172341,
+                921.997492
+            ]
+        },
+        {
+            "name": "RECEPTION",
+            "position": [
+                163.393263,
+                921.295342
+            ]
+        },
+        {
+            "name": "WASH  AREA",
+            "position": [
+                153.360312,
+                919.920822
+            ]
+        },
+        {
+            "name": "%%USECOND   FLOOR  PLAN",
+            "position": [
+                177.272017,
+                923.278513
+            ]
+        },
+        {
+            "name": "SHEET NO : 7",
+            "position": [
+                167.367875,
+                913.381894
+            ]
+        },
+        {
+            "name": "TYPE                        SIZE                      DESCRIPTION",
+            "position": [
+                269.707476,
+                913.604679
+            ]
+        },
+        {
+            "name": "D                       1.00 X 2.10                         Door",
+            "position": [
+                165.768217,
+                918.521217
+            ]
+        },
+        {
+            "name": "W                      2.00 X 1.50                         Window",
+            "position": [
+                165.772683,
+                918.794823
+            ]
+        },
+        {
+            "name": "GROUND  FLOOR          : 1379.10 SQ.M.",
+            "position": [
+                165.564976,
+                917.017274
+            ]
+        },
+        {
+            "name": "FIRST  FLOOR                : 1379.10 SQ.M.",
+            "position": [
+                165.573615,
+                917.16781
+            ]
+        },
+        {
+            "name": "%%UPROPOSED  PLINTH AREA (GIRLS  HOSTEL BLDG.):",
+            "position": [
+                189.864025,
+                914.336822
+            ]
+        },
+        {
+            "name": "%%UGIRLS  HOSTEL  BUILDING",
+            "position": [
+                157.124171,
+                923.489633
+            ]
+        },
+        {
+            "name": "D1                     0.90 X 2.10                         Door",
+            "position": [
+                165.768217,
+                918.656921
+            ]
+        },
+        {
+            "name": "W1                    1.20 X 1.50                         Window",
+            "position": [
+                165.772683,
+                918.928458
+            ]
+        },
+        {
+            "name": "V                       0.90 X 0.60                         Ventilater",
+            "position": [
+                165.772683,
+                919.075643
+            ]
+        },
+        {
+            "name": "O                       1.00 X 2.10                         Open",
+            "position": [
+                165.772683,
+                919.208143
+            ]
+        },
+        {
+            "name": "TYPE                      SIZE                DESCRIPTION",
+            "position": [
+                189.900222,
+                915.923943
+            ]
+        },
+        {
+            "name": "D                       1.00 X 2.10             Door",
+            "position": [
+                189.983615,
+                916.09809
+            ]
+        },
+        {
+            "name": "W                      2.00 X 1.50             Window",
+            "position": [
+                189.988081,
+                916.371696
+            ]
+        },
+        {
+            "name": "D1                     0.90 X 2.10             Door",
+            "position": [
+                189.983615,
+                916.233794
+            ]
+        },
+        {
+            "name": "W1                    1.20 X 1.50             Window",
+            "position": [
+                189.988081,
+                916.505331
+            ]
+        },
+        {
+            "name": "V                       0.90 X 0.60             Ventilater",
+            "position": [
+                189.988081,
+                916.652516
+            ]
+        },
+        {
+            "name": "O                       1.00 X 2.10             Open",
+            "position": [
+                189.988081,
+                916.785017
+            ]
+        },
+        {
+            "name": "C.D                   2.50 X 2.10                   Collapsible  Door",
+            "position": [
+                165.772683,
+                919.361034
+            ]
+        },
+        {
+            "name": "C.D                   2.50 X 2.10             Collapsible  Door",
+            "position": [
+                189.988081,
+                916.929767
+            ]
+        },
+        {
+            "name": "NO  OF  ROOMS - 35",
+            "position": [
+                189.894651,
+                915.657266
+            ]
+        },
+        {
+            "name": "%%UGIRLS  HOSTEL BUILDING : BLOCK %%OIII",
+            "position": [
+                189.832365,
+                911.07203
+            ]
+        },
+        {
+            "name": "SECOND  FLOOR           : 1379.10 SQ.M.",
+            "position": [
+                189.879904,
+                914.54624
+            ]
+        },
+        {
+            "name": "HEAD  ROOM                 :     82.16 SQ.M.",
+            "position": [
+                189.879904,
+                914.697981
+            ]
+        },
+        {
+            "name": "SHEET NO : 8",
+            "position": [
+                191.676269,
+                910.897779
+            ]
+        },
+        {
+            "name": "wall 2.10m ht.",
+            "position": [
+                176.29968,
+                921.888586
+            ]
+        },
+        {
+            "name": "2.82X1.81",
+            "position": [
+                173.108164,
+                919.661525
+            ]
+        },
+        {
+            "name": "2.82X2.00",
+            "position": [
+                173.080184,
+                919.977204
+            ]
+        },
+        {
+            "name": "2.87X2.00",
+            "position": [
+                179.535207,
+                919.240386
+            ]
+        },
+        {
+            "name": "5.85X1.81",
+            "position": [
+                156.539692,
+                922.128959
+            ]
+        },
+        {
+            "name": "2.87X1.81",
+            "position": [
+                176.348844,
+                922.03832
+            ]
+        },
+        {
+            "name": "2.49X2.00",
+            "position": [
+                181.125214,
+                919.243241
+            ]
+        },
+        {
+            "name": "2.49X1.81",
+            "position": [
+                181.191015,
+                919.654435
+            ]
+        },
+        {
+            "name": "D/V3",
+            "position": [
+                250.875949,
+                915.689996
+            ]
+        },
+        {
+            "name": "MD/V4",
+            "position": [
+                249.326254,
+                917.7054
+            ]
+        },
+        {
+            "name": "VERANDAH  3.05  M",
+            "position": [
+                259.49364,
+                911.997398
+            ]
+        },
+        {
+            "name": "CAD/ CAM LAB",
+            "position": [
+                254.02634,
+                918.857528
+            ]
+        },
+        {
+            "name": "j",
+            "position": [
+                253.261938,
+                921.938571
+            ]
+        },
+        {
+            "name": "W                      2.00 X 1.50            Window",
+            "position": [
+                269.796253,
+                914.2323
+            ]
+        },
+        {
+            "name": "D                       1.20 X 2.10            Door",
+            "position": [
+                269.791787,
+                913.730981
+            ]
+        },
+        {
+            "name": "FIRST  FLOOR                :   1548.78 SQ.M.",
+            "position": [
+                281.684566,
+                919.925387
+            ]
+        },
+        {
+            "name": "GROUND  FLOOR          :   1548.78 SQ.M.",
+            "position": [
+                281.675927,
+                919.774852
+            ]
+        },
+        {
+            "name": "%%UPROPOSED  PLINTH  AREA :",
+            "position": [
+                281.494836,
+                919.483871
+            ]
+        },
+        {
+            "name": "TOTAL  AREA                 :  4695.46 SQ.M.",
+            "position": [
+                281.675927,
+                920.377767
+            ]
+        },
+        {
+            "name": "%%ULAB  BUILDING :",
+            "position": [
+                281.494836,
+                919.617736
+            ]
+        },
+        {
+            "name": "SECOND  FLOOR           :   1548.78 SQ.M.",
+            "position": [
+                281.684566,
+                920.077405
+            ]
+        },
+        {
+            "name": "HEAD  ROOM                 :       49.12 SQ.M.",
+            "position": [
+                281.684566,
+                920.229146
+            ]
+        },
+        {
+            "name": "HANDICAPED",
+            "position": [
+                262.670711,
+                914.804437
+            ]
+        },
+        {
+            "name": "V                       0.90 X 0.60            Ventilator",
+            "position": [
+                269.796253,
+                914.683358
+            ]
+        },
+        {
+            "name": "PARAPET WALL 1.00M Ht.",
+            "position": [
+                260.636379,
+                922.635667
+            ]
+        },
+        {
+            "name": "%%ULAB  BUILDING : BLOCK %%OV",
+            "position": [
+                281.516734,
+                915.850525
+            ]
+        },
+        {
+            "name": "VERANDAH  3.20  M",
+            "position": [
+                260.230286,
+                913.616956
+            ]
+        },
+        {
+            "name": "CD                    7.32 X 2.10            Collapsible Door",
+            "position": [
+                269.796253,
+                914.133194
+            ]
+        },
+        {
+            "name": "SHEET NO : 11",
+            "position": [
+                271.391445,
+                908.190228
+            ]
+        },
+        {
+            "name": "SHEET NO : 12",
+            "position": [
+                283.266904,
+                915.794559
+            ]
+        },
+        {
+            "name": "W1/V7",
+            "position": [
+                263.731162,
+                919.014261
+            ]
+        },
+        {
+            "name": "G/V5",
+            "position": [
+                247.314688,
+                909.930927
+            ]
+        },
+        {
+            "name": "GD/V3",
+            "position": [
+                247.858641,
+                909.497526
+            ]
+        },
+        {
+            "name": "G1/V6",
+            "position": [
+                247.613699,
+                909.423549
+            ]
+        },
+        {
+            "name": "V2",
+            "position": [
+                248.397404,
+                909.420622
+            ]
+        },
+        {
+            "name": "RS                     2.44 X 2.10            Rolling Shutter",
+            "position": [
+                269.791787,
+                914.028273
+            ]
+        },
+        {
+            "name": "G                       2.44 X 1.50            Grill",
+            "position": [
+                269.796253,
+                914.44896
+            ]
+        },
+        {
+            "name": "GD                    1.20 X 2.10            Grill Door",
+            "position": [
+                269.791787,
+                913.827773
+            ]
+        },
+        {
+            "name": "G1                     1.83 X 1.50            Grill",
+            "position": [
+                269.796253,
+                914.561696
+            ]
+        },
+        {
+            "name": "V2                     2.00 X 0.60            Ventilator",
+            "position": [
+                269.796253,
+                914.793479
+            ]
+        },
+        {
+            "name": "V3                     1.20 X 0.60            Ventilator",
+            "position": [
+                269.796253,
+                914.90948
+            ]
+        },
+        {
+            "name": "V4                     1.80 X 0.60            Ventilator",
+            "position": [
+                269.796253,
+                915.034852
+            ]
+        },
+        {
+            "name": "MD                   1.80 X 2.10            Main Door",
+            "position": [
+                269.791787,
+                913.935747
+            ]
+        },
+        {
+            "name": "V5                     2.44 X 0.60            Ventilator",
+            "position": [
+                269.796253,
+                915.167073
+            ]
+        },
+        {
+            "name": "V6                     1.83 X 0.60            Ventilator",
+            "position": [
+                269.796253,
+                915.274837
+            ]
+        },
+        {
+            "name": "W1                    2.44 X 1.50            Window",
+            "position": [
+                269.796253,
+                914.328792
+            ]
+        },
+        {
+            "name": "V7                     2.44 X 0.60            Ventilator",
+            "position": [
+                269.796253,
+                915.385284
+            ]
+        },
+        {
+            "name": "A/C PROVIDED",
+            "position": [
+                248.380703,
+                921.428722
+            ]
+        },
+        {
+            "name": "ADMINISTRATIVE BUILDING",
+            "position": [
+                32.031982,
+                914.224521
+            ]
+        },
+        {
+            "name": "G+2",
+            "position": [
+                30.715131,
+                913.474044
+            ]
+        },
+        {
+            "name": "BLOCK -I",
+            "position": [
+                31.005466,
+                913.53448
+            ]
+        },
+        {
+            "name": "%%UMr.NAZERATH CHARLES,",
+            "position": [
+                505.78857,
+                922.315641
+            ]
+        },
+        {
+            "name": "MANAVAZHA KURICHI.",
+            "position": [
+                505.790028,
+                922.606318
+            ]
+        },
+        {
+            "name": "VACANT",
+            "position": [
+                504.113501,
+                919.44141
+            ]
+        },
+        {
+            "name": "\\L590",
+            "position": [
+                36.988766,
+                912.484502
+            ]
+        },
+        {
+            "name": "%%U517/7",
+            "position": [
+                501.621752,
+                917.379462
+            ]
+        },
+        {
+            "name": "\\L488/2B",
+            "position": [
+                36.080202,
+                913.105048
+            ]
+        },
+        {
+            "name": "\\L592",
+            "position": [
+                35.589125,
+                912.444659
+            ]
+        },
+        {
+            "name": "%%U488/1",
+            "position": [
+                33.660165,
+                912.939895
+            ]
+        },
+        {
+            "name": "\\L487/1",
+            "position": [
+                33.493354,
+                913.305472
+            ]
+        },
+        {
+            "name": "%%U482/3A",
+            "position": [
+                499.262038,
+                916.225438
+            ]
+        },
+        {
+            "name": "\\L481/10",
+            "position": [
+                498.297261,
+                915.906214
+            ]
+        },
+        {
+            "name": "\\L478/9",
+            "position": [
+                29.114216,
+                917.969655
+            ]
+        },
+        {
+            "name": "%%U478/10B",
+            "position": [
+                29.556334,
+                918.504557
+            ]
+        },
+        {
+            "name": "\\L483/5",
+            "position": [
+                498.175364,
+                918.036975
+            ]
+        },
+        {
+            "name": "\\L483/4",
+            "position": [
+                498.44908,
+                918.021783
+            ]
+        },
+        {
+            "name": "\\L483/9",
+            "position": [
+                498.543092,
+                918.152248
+            ]
+        },
+        {
+            "name": "\\L484",
+            "position": [
+                31.936202,
+                919.016652
+            ]
+        },
+        {
+            "name": "\\L485",
+            "position": [
+                33.092439,
+                918.658658
+            ]
+        },
+        {
+            "name": "\\L486/9",
+            "position": [
+                34.659144,
+                917.05997
+            ]
+        },
+        {
+            "name": "%%U486/11",
+            "position": [
+                35.71657,
+                916.788247
+            ]
+        },
+        {
+            "name": "\\L490",
+            "position": [
+                36.398088,
+                916.78177
+            ]
+        },
+        {
+            "name": "\\L489/9",
+            "position": [
+                36.772461,
+                916.385205
+            ]
+        },
+        {
+            "name": "\\L489/8",
+            "position": [
+                36.905446,
+                915.797561
+            ]
+        },
+        {
+            "name": "%%U517/2A",
+            "position": [
+                501.137569,
+                917.843445
+            ]
+        },
+        {
+            "name": "\\L483/8",
+            "position": [
+                498.464559,
+                918.207192
+            ]
+        },
+        {
+            "name": "TO NAGERCOIL",
+            "position": [
+                504.956106,
+                916.105523
+            ]
+        },
+        {
+            "name": "\\L481/6A",
+            "position": [
+                28.24727,
+                912.80467
+            ]
+        },
+        {
+            "name": "\\L481/7",
+            "position": [
+                28.757242,
+                913.016394
+            ]
+        },
+        {
+            "name": "\\L481/8A",
+            "position": [
+                29.01782,
+                912.852141
+            ]
+        },
+        {
+            "name": "\\L481/9A",
+            "position": [
+                29.20664,
+                912.845257
+            ]
+        },
+        {
+            "name": "\\L482/10",
+            "position": [
+                29.54076,
+                916.647324
+            ]
+        },
+        {
+            "name": "\\L483/7",
+            "position": [
+                31.781521,
+                918.66103
+            ]
+        },
+        {
+            "name": "\\L482/11",
+            "position": [
+                30.022392,
+                916.73844
+            ]
+        },
+        {
+            "name": "\\L478/10A2",
+            "position": [
+                30.406087,
+                917.449402
+            ]
+        },
+        {
+            "name": "\\L482/9",
+            "position": [
+                30.193574,
+                916.21654
+            ]
+        },
+        {
+            "name": "\\L482/8",
+            "position": [
+                30.296931,
+                915.812552
+            ]
+        },
+        {
+            "name": "\\L482/7",
+            "position": [
+                30.323036,
+                914.995006
+            ]
+        },
+        {
+            "name": "\\L481/22",
+            "position": [
+                498.022303,
+                916.775936
+            ]
+        },
+        {
+            "name": "\\L481/14A",
+            "position": [
+                29.19951,
+                913.263609
+            ]
+        },
+        {
+            "name": "\\L481/13",
+            "position": [
+                29.764631,
+                913.089027
+            ]
+        },
+        {
+            "name": "\\L481/18B",
+            "position": [
+                28.034607,
+                913.506703
+            ]
+        },
+        {
+            "name": "\\L481/17B",
+            "position": [
+                28.412426,
+                913.563974
+            ]
+        },
+        {
+            "name": "\\L478/1A",
+            "position": [
+                27.861747,
+                914.565963
+            ]
+        },
+        {
+            "name": "\\L478/1B2",
+            "position": [
+                27.835388,
+                914.906927
+            ]
+        },
+        {
+            "name": "\\L478/2B2",
+            "position": [
+                28.283993,
+                914.899116
+            ]
+        },
+        {
+            "name": "\\L478/2C",
+            "position": [
+                28.306846,
+                914.590325
+            ]
+        },
+        {
+            "name": "\\L481/14B",
+            "position": [
+                29.291096,
+                914.010526
+            ]
+        },
+        {
+            "name": "\\L481/15",
+            "position": [
+                29.289684,
+                914.252707
+            ]
+        },
+        {
+            "name": "\\L481/16A",
+            "position": [
+                29.271654,
+                914.424031
+            ]
+        },
+        {
+            "name": "\\L481/20B",
+            "position": [
+                28.875324,
+                914.764105
+            ]
+        },
+        {
+            "name": "\\L481/21A",
+            "position": [
+                29.663703,
+                914.560391
+            ]
+        },
+        {
+            "name": "\\L482/5B",
+            "position": [
+                30.402336,
+                914.557481
+            ]
+        },
+        {
+            "name": "\\L482/2B",
+            "position": [
+                31.071501,
+                914.014315
+            ]
+        },
+        {
+            "name": "\\L483/3",
+            "position": [
+                30.987039,
+                917.815282
+            ]
+        },
+        {
+            "name": "\\L483/2",
+            "position": [
+                31.59261,
+                917.588931
+            ]
+        },
+        {
+            "name": "\\L483/10",
+            "position": [
+                32.08279,
+                917.92067
+            ]
+        },
+        {
+            "name": "\\L483/11",
+            "position": [
+                32.171757,
+                918.594322
+            ]
+        },
+        {
+            "name": "\\L483/12",
+            "position": [
+                32.498273,
+                918.521064
+            ]
+        },
+        {
+            "name": "\\L483/1",
+            "position": [
+                31.817108,
+                916.818824
+            ]
+        },
+        {
+            "name": "\\L482/12",
+            "position": [
+                30.623577,
+                916.55683
+            ]
+        },
+        {
+            "name": "\\L482/3B2",
+            "position": [
+                31.827525,
+                915.874103
+            ]
+        },
+        {
+            "name": "\\L482/6",
+            "position": [
+                30.834579,
+                915.403008
+            ]
+        },
+        {
+            "name": "\\L482/3B1A",
+            "position": [
+                32.796624,
+                913.433677
+            ]
+        },
+        {
+            "name": "\\L482/3B1B2",
+            "position": [
+                32.910689,
+                914.16246
+            ]
+        },
+        {
+            "name": "%%U482/3B1C2",
+            "position": [
+                31.775405,
+                914.944792
+            ]
+        },
+        {
+            "name": "\\L591/1A1A",
+            "position": [
+                38.350283,
+                913.559355
+            ]
+        },
+        {
+            "name": "\\L517/6",
+            "position": [
+                38.680823,
+                914.307053
+            ]
+        },
+        {
+            "name": "%%U517/5B",
+            "position": [
+                501.396764,
+                917.650454
+            ]
+        },
+        {
+            "name": "\\L517/4B",
+            "position": [
+                39.026008,
+                915.136137
+            ]
+        },
+        {
+            "name": "\\L517/3",
+            "position": [
+                38.273078,
+                915.209999
+            ]
+        },
+        {
+            "name": "\\L517/2B",
+            "position": [
+                37.672119,
+                915.182731
+            ]
+        },
+        {
+            "name": "\\L517/1",
+            "position": [
+                38.153859,
+                914.751163
+            ]
+        },
+        {
+            "name": "%%U591/1B",
+            "position": [
+                501.061545,
+                917.039595
+            ]
+        },
+        {
+            "name": "\\L488/2A2",
+            "position": [
+                36.248329,
+                914.038764
+            ]
+        },
+        {
+            "name": "\\L488/2A1A",
+            "position": [
+                34.288329,
+                912.846227
+            ]
+        },
+        {
+            "name": "\\L487/14",
+            "position": [
+                33.792713,
+                913.511404
+            ]
+        },
+        {
+            "name": "\\L487/2",
+            "position": [
+                34.34041,
+                913.4975
+            ]
+        },
+        {
+            "name": "\\L487/7",
+            "position": [
+                33.389909,
+                914.157321
+            ]
+        },
+        {
+            "name": "\\L487/6",
+            "position": [
+                33.70494,
+                914.156038
+            ]
+        },
+        {
+            "name": "\\L487/5",
+            "position": [
+                33.953899,
+                914.156038
+            ]
+        },
+        {
+            "name": "\\L487/4",
+            "position": [
+                34.182546,
+                914.156038
+            ]
+        },
+        {
+            "name": "\\L487/3",
+            "position": [
+                34.412779,
+                914.082465
+            ]
+        },
+        {
+            "name": "\\L487/8B",
+            "position": [
+                33.881773,
+                914.7445
+            ]
+        },
+        {
+            "name": "\\L488/2A3",
+            "position": [
+                35.743773,
+                915.036535
+            ]
+        },
+        {
+            "name": "\\L489/7",
+            "position": [
+                36.583544,
+                915.677863
+            ]
+        },
+        {
+            "name": "\\L489/6",
+            "position": [
+                36.424473,
+                916.001695
+            ]
+        },
+        {
+            "name": "\\L489/4",
+            "position": [
+                36.008667,
+                915.887388
+            ]
+        },
+        {
+            "name": "\\L486/10",
+            "position": [
+                35.156842,
+                916.935015
+            ]
+        },
+        {
+            "name": "\\L489/2",
+            "position": [
+                34.928809,
+                916.096105
+            ]
+        },
+        {
+            "name": "\\L489/1A",
+            "position": [
+                35.019229,
+                915.416567
+            ]
+        },
+        {
+            "name": "\\L489/3",
+            "position": [
+                35.660576,
+                915.522079
+            ]
+        },
+        {
+            "name": "\\L489/1B",
+            "position": [
+                34.58786,
+                915.464789
+            ]
+        },
+        {
+            "name": "\\L486/5",
+            "position": [
+                33.020125,
+                917.872552
+            ]
+        },
+        {
+            "name": "\\L486/6B",
+            "position": [
+                33.58419,
+                917.512798
+            ]
+        },
+        {
+            "name": "\\L486/8B",
+            "position": [
+                34.091388,
+                917.154622
+            ]
+        },
+        {
+            "name": "\\L486/3",
+            "position": [
+                33.755227,
+                917.10901
+            ]
+        },
+        {
+            "name": "\\L486/4",
+            "position": [
+                33.16076,
+                917.08205
+            ]
+        },
+        {
+            "name": "\\L486/1",
+            "position": [
+                33.421624,
+                916.396848
+            ]
+        },
+        {
+            "name": "\\L486/2",
+            "position": [
+                34.036439,
+                916.528031
+            ]
+        },
+        {
+            "name": "\\L487/11A",
+            "position": [
+                33.228462,
+                915.840358
+            ]
+        },
+        {
+            "name": "\\L487/11B",
+            "position": [
+                34.113363,
+                915.977581
+            ]
+        },
+        {
+            "name": "\\L487/10",
+            "position": [
+                33.04672,
+                915.42901
+            ]
+        },
+        {
+            "name": "\\L487/9",
+            "position": [
+                33.97087,
+                915.609724
+            ]
+        },
+        {
+            "name": "\\L487/12",
+            "position": [
+                33.514484,
+                915.057808
+            ]
+        },
+        {
+            "name": "\\L487/13",
+            "position": [
+                34.245054,
+                915.236333
+            ]
+        },
+        {
+            "name": "481/18A}",
+            "position": [
+                28.084375,
+                913.303919
+            ]
+        },
+        {
+            "name": "481/17A}",
+            "position": [
+                28.413967,
+                913.376882
+            ]
+        },
+        {
+            "name": "\\L481/6B",
+            "position": [
+                28.265934,
+                913.010283
+            ]
+        },
+        {
+            "name": "\\L481/8B",
+            "position": [
+                28.879192,
+                913.055654
+            ]
+        },
+        {
+            "name": "\\L481/9B",
+            "position": [
+                29.160927,
+                913.093441
+            ]
+        },
+        {
+            "name": "\\L488/2A1B",
+            "position": [
+                35.038756,
+                913.202973
+            ]
+        },
+        {
+            "name": "%%U591/1A3",
+            "position": [
+                500.880983,
+                916.913308
+            ]
+        },
+        {
+            "name": "\\L591/1A2",
+            "position": [
+                36.900515,
+                912.932845
+            ]
+        },
+        {
+            "name": "TO COLACHEL",
+            "position": [
+                26.930902,
+                909.778771
+            ]
+        },
+        {
+            "name": "TO  KALLUKATTI JN.",
+            "position": [
+                497.769249,
+                915.445474
+            ]
+        },
+        {
+            "name": "ROAD",
+            "position": [
+                503.168158,
+                915.761767
+            ]
+        },
+        {
+            "name": "TO PILLAITHOPPU",
+            "position": [
+                27.379887,
+                916.53745
+            ]
+        },
+        {
+            "name": "COLLEGE  BUILDING",
+            "position": [
+                31.937261,
+                917.384839
+            ]
+        },
+        {
+            "name": "\\L486/8A",
+            "position": [
+                34.466878,
+                917.096709
+            ]
+        },
+        {
+            "name": "%%U486/11A",
+            "position": [
+                500.062586,
+                917.969709
+            ]
+        },
+        {
+            "name": "%%USCALE 1:800",
+            "position": [
+                30.433606,
+                919.970907
+            ]
+        },
+        {
+            "name": "%%USITE PLAN",
+            "position": [
+                30.462664,
+                919.808654
+            ]
+        },
+        {
+            "name": "N",
+            "position": [
+                505.008223,
+                911.56383
+            ]
+        },
+        {
+            "name": "%%U482/1",
+            "position": [
+                31.16802,
+                912.817152
+            ]
+        },
+        {
+            "name": "%%U482/2A",
+            "position": [
+                31.634845,
+                912.811941
+            ]
+        },
+        {
+            "name": "%%U517/5A",
+            "position": [
+                39.030206,
+                914.743061
+            ]
+        },
+        {
+            "name": "RAJAKKAMANGALAM ROAD",
+            "position": [
+                27.119189,
+                909.600858
+            ]
+        },
+        {
+            "name": "SWAMY THAYANANTHA",
+            "position": [
+                501.810198,
+                917.846228
+            ]
+        },
+        {
+            "name": "SARASWATHY  CHILDRENS",
+            "position": [
+                501.799826,
+                917.884063
+            ]
+        },
+        {
+            "name": "HOME",
+            "position": [
+                501.85724,
+                917.92843
+            ]
+        },
+        {
+            "name": "HOUSE",
+            "position": [
+                501.045609,
+                916.629813
+            ]
+        },
+        {
+            "name": "CASHUENUT  THOPPU",
+            "position": [
+                499.36781,
+                916.035964
+            ]
+        },
+        {
+            "name": "TO ALAMKOTTAI",
+            "position": [
+                501.863111,
+                917.316054
+            ]
+        },
+        {
+            "name": "TO PARAMAN VILAI",
+            "position": [
+                501.708064,
+                918.260608
+            ]
+        },
+        {
+            "name": "TREES",
+            "position": [
+                33.996734,
+                918.075412
+            ]
+        },
+        {
+            "name": "TEAK THOPPU",
+            "position": [
+                498.030595,
+                918.198332
+            ]
+        },
+        {
+            "name": "BANANA THOPPU",
+            "position": [
+                497.26497,
+                916.945564
+            ]
+        },
+        {
+            "name": "COCONUT THOPPU",
+            "position": [
+                27.976115,
+                914.361873
+            ]
+        },
+        {
+            "name": "Gate",
+            "position": [
+                36.426746,
+                916.529531
+            ]
+        },
+        {
+            "name": "HOUSES",
+            "position": [
+                503.850999,
+                913.554655
+            ]
+        },
+        {
+            "name": "Electrical",
+            "position": [
+                28.985021,
+                914.922584
+            ]
+        },
+        {
+            "name": "11.00M",
+            "position": [
+                497.385369,
+                916.378442
+            ]
+        },
+        {
+            "name": "%%U480",
+            "position": [
+                27.83009,
+                913.357504
+            ]
+        },
+        {
+            "name": "10.16M",
+            "position": [
+                497.674716,
+                915.827067
+            ]
+        },
+        {
+            "name": "%%U479",
+            "position": [
+                27.440637,
+                915.238068
+            ]
+        },
+        {
+            "name": "%%U486/7",
+            "position": [
+                34.090972,
+                917.464113
+            ]
+        },
+        {
+            "name": "%%U486/13",
+            "position": [
+                499.781684,
+                918.146989
+            ]
+        },
+        {
+            "name": "%%U478/11",
+            "position": [
+                27.786806,
+                915.139813
+            ]
+        },
+        {
+            "name": "%%U478/12",
+            "position": [
+                28.252333,
+                915.107934
+            ]
+        },
+        {
+            "name": "%%U478/2A",
+            "position": [
+                28.820467,
+                915.272128
+            ]
+        },
+        {
+            "name": "%%U517/4A1",
+            "position": [
+                38.715006,
+                915.655498
+            ]
+        },
+        {
+            "name": "%%U517/4A2",
+            "position": [
+                38.896256,
+                915.613115
+            ]
+        },
+        {
+            "name": "%%U478/8",
+            "position": [
+                29.244771,
+                917.405032
+            ]
+        },
+        {
+            "name": "%%U478/7",
+            "position": [
+                29.314892,
+                917.186795
+            ]
+        },
+        {
+            "name": "%%U478/3",
+            "position": [
+                29.249786,
+                916.889146
+            ]
+        },
+        {
+            "name": "%%U428",
+            "position": [
+                27.283242,
+                914.608469
+            ]
+        },
+        {
+            "name": "%%U427",
+            "position": [
+                27.603576,
+                911.507883
+            ]
+        },
+        {
+            "name": "%%U481/12",
+            "position": [
+                28.185755,
+                913.14005
+            ]
+        },
+        {
+            "name": "%%U517/11",
+            "position": [
+                39.79666,
+                914.974002
+            ]
+        },
+        {
+            "name": "10.20M",
+            "position": [
+                497.662889,
+                914.768245
+            ]
+        },
+        {
+            "name": "%%U599",
+            "position": [
+                27.592942,
+                909.940238
+            ]
+        },
+        {
+            "name": "9.20M",
+            "position": [
+                497.019529,
+                918.186996
+            ]
+        },
+        {
+            "name": "%%U431",
+            "position": [
+                27.673472,
+                918.198408
+            ]
+        },
+        {
+            "name": "%%U429",
+            "position": [
+                27.189903,
+                917.32247
+            ]
+        },
+        {
+            "name": "%%U430",
+            "position": [
+                27.47269,
+                918.235654
+            ]
+        },
+        {
+            "name": "%%UPROPOSED  BUILDING  PLINTH  AREA:",
+            "position": [
+                39.549468,
+                907.791625
+            ]
+        },
+        {
+            "name": "SI.NO.",
+            "position": [
+                39.536614,
+                906.830746
+            ]
+        },
+        {
+            "name": "BLOCK",
+            "position": [
+                40.898238,
+                906.830746
+            ]
+        },
+        {
+            "name": "FLOOR",
+            "position": [
+                43.530994,
+                908.453689
+            ]
+        },
+        {
+            "name": "AREA  IN  SQ.M",
+            "position": [
+                44.040586,
+                906.863807
+            ]
+        },
+        {
+            "name": "TOTAL",
+            "position": [
+                41.53183,
+                923.555017
+            ]
+        },
+        {
+            "name": "TOTAL  AREA",
+            "position": [
+                40.605324,
+                907.527446
+            ]
+        },
+        {
+            "name": "1.      ADMINISTRATIVE BUILDING  : BLOCK - I",
+            "position": [
+                39.653738,
+                908.627292
+            ]
+        },
+        {
+            "name": "-",
+            "position": [
+                43.684936,
+                909.231047
+            ]
+        },
+        {
+            "name": "2.      ADMINISTRATIVE BUILDING  : BLOCK - II",
+            "position": [
+                39.642562,
+                908.775889
+            ]
+        },
+        {
+            "name": "FIRST",
+            "position": [
+                42.588027,
+                906.897727
+            ]
+        },
+        {
+            "name": "SECOND",
+            "position": [
+                43.003273,
+                906.897727
+            ]
+        },
+        {
+            "name": "HEAD",
+            "position": [
+                43.557159,
+                906.897727
+            ]
+        },
+        {
+            "name": "%%UEXISTING  BUILDING  PLINTH  AREA:",
+            "position": [
+                39.574513,
+                906.389878
+            ]
+        },
+        {
+            "name": "1.      ADMINISTRATIVE BUILDING :  BLOCK - I",
+            "position": [
+                39.653738,
+                907.199812
+            ]
+        },
+        {
+            "name": "2.      ADMINISTRATIVE BUILDING :  BLOCK - II",
+            "position": [
+                39.656354,
+                907.351529
+            ]
+        },
+        {
+            "name": "3.      GIRLS  HOSTEL BUILDING :  BLOCK-III",
+            "position": [
+                39.634476,
+                908.930726
+            ]
+        },
+        {
+            "name": "4.      BOYS  HOSTEL  BUILDING :  BLOCK-IV",
+            "position": [
+                39.629262,
+                909.082442
+            ]
+        },
+        {
+            "name": "5.      LAB BUILDING  BUILDING :  BLOCK-V",
+            "position": [
+                39.621974,
+                909.234159
+            ]
+        },
+        {
+            "name": "6.      COLLEGE BLOCK  BUILDING  : BLOCK-VI",
+            "position": [
+                39.622006,
+                909.385876
+            ]
+        },
+        {
+            "name": "ACCESS  WAY",
+            "position": [
+                27.807397,
+                914.806356
+            ]
+        },
+        {
+            "name": "BOYS HOSTEL BUILDING",
+            "position": [
+                37.13485,
+                913.987162
+            ]
+        },
+        {
+            "name": "BLOCK \\OIII}",
+            "position": [
+                30.975549,
+                916.970322
+            ]
+        },
+        {
+            "name": "THIRD",
+            "position": [
+                43.501388,
+                908.325207
+            ]
+        },
+        {
+            "name": "%%UCOLOUR INDEX",
+            "position": [
+                506.494236,
+                914.096986
+            ]
+        },
+        {
+            "name": "SITE   BOUNDARY",
+            "position": [
+                43.143398,
+                914.82371
+            ]
+        },
+        {
+            "name": "PROPOSED BUILDING",
+            "position": [
+                43.131927,
+                915.113813
+            ]
+        },
+        {
+            "name": "ROAD/STREET",
+            "position": [
+                43.148293,
+                914.957651
+            ]
+        },
+        {
+            "name": "EXISTING BUILDING",
+            "position": [
+                43.135578,
+                915.752171
+            ]
+        },
+        {
+            "name": "ACCESS WAY",
+            "position": [
+                43.131927,
+                915.262523
+            ]
+        },
+        {
+            "name": "OSR",
+            "position": [
+                43.12777,
+                915.586158
+            ]
+        },
+        {
+            "name": "SITE AREA                      : 77746.00 SQ.M.",
+            "position": [
+                43.158998,
+                910.055284
+            ]
+        },
+        {
+            "name": "VACANT  AREA             : 62008.96 SQ.M",
+            "position": [
+                43.136903,
+                910.461978
+            ]
+        },
+        {
+            "name": "OSR (PARK)                     :   7132.00 SQ.M.",
+            "position": [
+                43.141568,
+                910.268322
+            ]
+        },
+        {
+            "name": "LAB BUILDING",
+            "position": [
+                34.984774,
+                916.250869
+            ]
+        },
+        {
+            "name": "GATE",
+            "position": [
+                39.672909,
+                915.141868
+            ]
+        },
+        {
+            "name": "OSR  (PARK) :7132.00 SQ.M",
+            "position": [
+                34.15172,
+                913.635931
+            ]
+        },
+        {
+            "name": "ACCESS WAY 9.00M WIDE",
+            "position": [
+                30.092374,
+                913.659812
+            ]
+        },
+        {
+            "name": "ACCESS WAY 7.20M WIDE",
+            "position": [
+                35.108169,
+                915.037019
+            ]
+        },
+        {
+            "name": "BLOCK  %%U%%OIV",
+            "position": [
+                37.240703,
+                914.07663
+            ]
+        },
+        {
+            "name": "BLOCK  %%U%%OV",
+            "position": [
+                35.053205,
+                916.356958
+            ]
+        },
+        {
+            "name": "BLOCK  %%U%%OVI",
+            "position": [
+                32.013096,
+                917.484396
+            ]
+        },
+        {
+            "name": "GIRLS HOSTEL BUILDING",
+            "position": [
+                30.760925,
+                917.269396
+            ]
+        },
+        {
+            "name": "APPROVED SITE BOUNDARY",
+            "position": [
+                43.142207,
+                915.436856
+            ]
+        },
+        {
+            "name": "P.P",
+            "position": [
+                30.524146,
+                917.8888
+            ]
+        },
+        {
+            "name": "Transformer yard",
+            "position": [
+                28.216677,
+                912.642028
+            ]
+        },
+        {
+            "name": "5.00MX5.00M",
+            "position": [
+                28.216677,
+                912.704772
+            ]
+        },
+        {
+            "name": "%%ON  L P A%%O",
+            "position": [
+                45.489177,
+                912.962155
+            ]
+        },
+        {
+            "name": "2. P P / B P",
+            "position": [
+                45.416178,
+                912.864691
+            ]
+        },
+        {
+            "name": "NO:   5 /2012,  Dt. 03-05-2012",
+            "position": [
+                45.824752,
+                912.915222
+            ]
+        },
+        {
+            "name": "%%UAPPROVED  DETAILS",
+            "position": [
+                45.742367,
+                912.31996
+            ]
+        },
+        {
+            "name": "Challanged  Person)",
+            "position": [
+                29.967432,
+                913.279955
+            ]
+        },
+        {
+            "name": "(Physically",
+            "position": [
+                30.032876,
+                913.220428
+            ]
+        },
+        {
+            "name": "Parking",
+            "position": [
+                30.046478,
+                913.329621
+            ]
+        },
+        {
+            "name": "1. DTCP CHENNAI :",
+            "position": [
+                45.42482,
+                912.485283
+            ]
+        },
+        {
+            "name": "(R.O.C.NO:6769/2012  B.A.I. Date 20-4-2012)",
+            "position": [
+                45.573525,
+                912.68732
+            ]
+        },
+        {
+            "name": "(R.O.C.NO:99/2012  NLPA  Date:03-05-2012",
+            "position": [
+                45.499591,
+                913.114162
+            ]
+        },
+        {
+            "name": "BLOCK - II",
+            "position": [
+                32.207973,
+                914.265253
+            ]
+        },
+        {
+            "name": "FLOOR  AREA  RATIO:",
+            "position": [
+                43.066322,
+                910.757208
+            ]
+        },
+        {
+            "name": "FSI   -",
+            "position": [
+                43.614106,
+                910.906726
+            ]
+        },
+        {
+            "name": "= 0.522 < 2.00",
+            "position": [
+                44.274843,
+                910.931088
+            ]
+        },
+        {
+            "name": "PARKING  SPACE:",
+            "position": [
+                43.066322,
+                911.074626
+            ]
+        },
+        {
+            "name": "Classroom Area  for  Every 100 sq.m = 1 Car Space",
+            "position": [
+                43.316089,
+                911.219643
+            ]
+        },
+        {
+            "name": "%%O77746.00",
+            "position": [
+                43.940578,
+                910.978166
+            ]
+        },
+        {
+            "name": "Classroom Area  for  Every  50 sq.m = 1  Two Wheeler",
+            "position": [
+                43.346392,
+                911.61995
+            ]
+        },
+        {
+            "name": "Classroom Area = 7645.24 Sq.m.",
+            "position": [
+                43.119925,
+                911.785092
+            ]
+        },
+        {
+            "name": "%%U7645.24",
+            "position": [
+                44.200825,
+                911.745739
+            ]
+        },
+        {
+            "name": "= 77 Car Space",
+            "position": [
+                44.517944,
+                911.38435
+            ]
+        },
+        {
+            "name": "= 153 Two Wheeler",
+            "position": [
+                44.517944,
+                911.786124
+            ]
+        },
+        {
+            "name": "Provided Parking  =404 Car Space + 160 Two Wheeler",
+            "position": [
+                43.115128,
+                912.10639
+            ]
+        },
+        {
+            "name": "Required Parking  =  77 Car Space + 153 Two Wheeler",
+            "position": [
+                43.117317,
+                911.986601
+            ]
+        },
+        {
+            "name": "NOTES:",
+            "position": [
+                43.025037,
+                912.306005
+            ]
+        },
+        {
+            "name": "1. RAIN  WATER  HARVESTING  RECYCLING  IS  TO  BE  PROVIDED.",
+            "position": [
+                43.081459,
+                912.400555
+            ]
+        },
+        {
+            "name": "2. BATH  ROOM  AND  WASHBASIN  RECYCLING  WATER",
+            "position": [
+                43.081459,
+                912.473147
+            ]
+        },
+        {
+            "name": "3. FIRE  EXTINGUISHER  IS  TO  BE  PROVIDED.",
+            "position": [
+                43.081459,
+                912.636104
+            ]
+        },
+        {
+            "name": "4. EMERGENCY  ALARM  IS  TO  BE  PROVIDED.",
+            "position": [
+                43.081459,
+                912.722522
+            ]
+        },
+        {
+            "name": "5. SOLAR  ASSITED  WATER  HEATING  SYSTEM  IS  TO  BE  PROVIDED.",
+            "position": [
+                43.081459,
+                912.79857
+            ]
+        },
+        {
+            "name": "6. WASTE  WATER  COLLECTED  TO  SUMP  AND  DISPOSED  BY",
+            "position": [
+                43.081459,
+                912.884988
+            ]
+        },
+        {
+            "name": "7. SOLID  WASTE  DISPOSED  BY  MUNICIPAL  TRUCKS.",
+            "position": [
+                43.081459,
+                913.0326
+            ]
+        },
+        {
+            "name": "8. RAIN  WATER  PERCULATION  PIT  IS  TO  BE  PROVIDED.",
+            "position": [
+                43.081459,
+                913.112104
+            ]
+        },
+        {
+            "name": "9. DRINKING  WATER  PROVIDED  AS  PER  MUNICIPAL  NORMS.",
+            "position": [
+                43.081459,
+                913.196449
+            ]
+        },
+        {
+            "name": "10. 'U'  TRAP  PROVIDED  &  OR  SEPTIC  TANK  AND  WATER  TANK.",
+            "position": [
+                43.081459,
+                913.279792
+            ]
+        },
+        {
+            "name": "11. SEWAGE  TREATMENT  PLANT  TO  BE  PROVIDED.",
+            "position": [
+                43.081459,
+                913.359325
+            ]
+        },
+        {
+            "name": "F.E      -   FIRE  EXTINGUISHING  SYSTEM.",
+            "position": [
+                43.295885,
+                913.442385
+            ]
+        },
+        {
+            "name": "P.P      -   PERCULATION  PIT.",
+            "position": [
+                43.295885,
+                913.572296
+            ]
+        },
+        {
+            "name": "SYSTEM  IS  TO  BE  PROVIDED.",
+            "position": [
+                43.147659,
+                912.552428
+            ]
+        },
+        {
+            "name": "PRIVATE  SEWAGE  TRUCKS.",
+            "position": [
+                43.15297,
+                912.96797
+            ]
+        },
+        {
+            "name": "ALL DIMENSION'S ARE IN METRE",
+            "position": [
+                43.440221,
+                913.870252
+            ]
+        },
+        {
+            "name": "SITE  PLAN = 1:800",
+            "position": [
+                44.046383,
+                913.718606
+            ]
+        },
+        {
+            "name": "SHEET NO: 1",
+            "position": [
+                47.043265,
+                906.303449
+            ]
+        },
+        {
+            "name": "SITE PLAN SHOWING THE PROPOSED  ADDITIONAL  CONSTRUCTION  OF  STELLA   MARY'S  COLLEGE  OF ENGINEERING  BUILDING  BEARING DOOR  NO: 19/54-3,  ARUNTHENGANVILAI,  RE.SY.NOS: 478/1B1,478/1B2, 478/2B1,478/2B2, 478/10A1A,478/10A1B,478/10A2, 481/6B, 481/8B, 481/9B, 481/13,481/14A,481/14B, 481/15, 481/16A,481/16B, 481/17A,481/18A, 481/20A, 481/20B,481/20C,481/21A,481/21B, 482/2B, 482/3B1A, 482/3B1B1,482/3B1B2,482/3B1C1, 482/3B1C2, 482/3B2, 482/4A,482/4B, 482/4C, 482/5A,482/5B,482/5C,482/6, 482/10,482/11,482/12, 483/1, 483/2, 483/3, 483/7, 483/10, 483/11,483/12, 486/1, 486/2, 486/3, 486/4, 486/5, 486/6B,486/6A,486/8B,  486/9, 486/10, 486/11A, 487/2,487/3, 487/4,487/5, 487/6, 487/7, 487/8A,487/8B,487/9, 487/10,487/11A, 487/11B, 487/12, 487/13,487/14,488/2A1B,488/2A2, 488/2A3, 488/2B,489/1A,489/1B, 489/2,489/3, 489/4,489/5, 489/6,489/7, 517/1,517/2B,517/3, 517/4B, 517/5B, 517/6, 591/1A2,591/1A3,591/1B, 591/1A1B, OF NEENDAKARAI 'B'  VILLAGE,GANAPATHIPURAM TOWN PANCHAYAT, AGASTHEESWARAM TALUK,  KANYAKUMARI DISTRICT.}",
+            "position": [
+                45.345681,
+                906.404597
+            ]
+        },
+        {
+            "name": "Two Wheeler Parking",
+            "position": [
+                35.086001,
+                915.759251
+            ]
+        },
+        {
+            "name": "Car Parking",
+            "position": [
+                34.797307,
+                914.670224
+            ]
+        },
+        {
+            "name": "\\L486/6A",
+            "position": [
+                33.511074,
+                918.027136
+            ]
+        },
+        {
+            "name": "\\L489/5",
+            "position": [
+                500.378275,
+                917.916946
+            ]
+        },
+        {
+            "name": "%%U591/1A1B",
+            "position": [
+                501.280225,
+                917.278793
+            ]
+        },
+        {
+            "name": "\\L478/10A1B",
+            "position": [
+                29.724601,
+                917.899037
+            ]
+        },
+        {
+            "name": "\\L478/1B1",
+            "position": [
+                27.742768,
+                914.744835
+            ]
+        },
+        {
+            "name": "\\L478/2B1",
+            "position": [
+                28.285657,
+                914.794945
+            ]
+        },
+        {
+            "name": "\\L478/10A1A",
+            "position": [
+                29.716161,
+                917.323975
+            ]
+        },
+        {
+            "name": "\\L481/16B",
+            "position": [
+                29.332388,
+                914.56543
+            ]
+        },
+        {
+            "name": "\\L481/21B",
+            "position": [
+                29.583805,
+                914.724
+            ]
+        },
+        {
+            "name": "\\L481/20C",
+            "position": [
+                29.047031,
+                914.908422
+            ]
+        },
+        {
+            "name": "\\L481/20A",
+            "position": [
+                28.709235,
+                914.645372
+            ]
+        },
+        {
+            "name": "\\L482/3B1B1",
+            "position": [
+                31.558097,
+                914.377664
+            ]
+        },
+        {
+            "name": "%%U482/3B1C1",
+            "position": [
+                31.930469,
+                914.696473
+            ]
+        },
+        {
+            "name": "\\L482/4A",
+            "position": [
+                31.044316,
+                914.391562
+            ]
+        },
+        {
+            "name": "\\L482/4B",
+            "position": [
+                31.066549,
+                914.620035
+            ]
+        },
+        {
+            "name": "\\L482/4C",
+            "position": [
+                30.986527,
+                914.700767
+            ]
+        },
+        {
+            "name": "\\L482/5A",
+            "position": [
+                30.504631,
+                914.387603
+            ]
+        },
+        {
+            "name": "\\L482/5C",
+            "position": [
+                30.298766,
+                914.640413
+            ]
+        },
+        {
+            "name": "\\L487/8A",
+            "position": [
+                33.877886,
+                914.542813
+            ]
+        },
+        {
+            "name": "SL.NO",
+            "position": [
+                40.865577,
+                909.961639
+            ]
+        },
+        {
+            "name": "RE.SY.NO",
+            "position": [
+                41.473156,
+                909.961639
+            ]
+        },
+        {
+            "name": "478/10A1A",
+            "position": [
+                41.53183,
+                910.809388
+            ]
+        },
+        {
+            "name": "478/1B2",
+            "position": [
+                41.53183,
+                910.406158
+            ]
+        },
+        {
+            "name": "478/1B1",
+            "position": [
+                41.53183,
+                910.300722
+            ]
+        },
+        {
+            "name": "478/2B2",
+            "position": [
+                41.53183,
+                910.673563
+            ]
+        },
+        {
+            "name": "478/2B1",
+            "position": [
+                41.53183,
+                910.540814
+            ]
+        },
+        {
+            "name": "\\LSITE  AREA  DETAILS",
+            "position": [
+                41.396142,
+                909.678041
+            ]
+        },
+        {
+            "name": "EXTENT",
+            "position": [
+                42.288159,
+                909.916303
+            ]
+        },
+        {
+            "name": "HECTARE",
+            "position": [
+                42.011608,
+                910.118671
+            ]
+        },
+        {
+            "name": "SQ.M",
+            "position": [
+                42.777172,
+                910.111845
+            ]
+        },
+        {
+            "name": "ARE",
+            "position": [
+                42.509155,
+                910.11921
+            ]
+        },
+        {
+            "name": "478/10A1B",
+            "position": [
+                41.53183,
+                910.952829
+            ]
+        },
+        {
+            "name": "478/10A2",
+            "position": [
+                41.53183,
+                911.066593
+            ]
+        },
+        {
+            "name": "481/6B",
+            "position": [
+                41.53183,
+                911.212507
+            ]
+        },
+        {
+            "name": "481/8B",
+            "position": [
+                41.53183,
+                911.355949
+            ]
+        },
+        {
+            "name": "481/9B",
+            "position": [
+                41.53183,
+                911.469712
+            ]
+        },
+        {
+            "name": "481/13",
+            "position": [
+                41.53183,
+                911.595842
+            ]
+        },
+        {
+            "name": "481/14A",
+            "position": [
+                41.53183,
+                911.741756
+            ]
+        },
+        {
+            "name": "481/14B",
+            "position": [
+                41.53183,
+                911.885198
+            ]
+        },
+        {
+            "name": "481/15",
+            "position": [
+                41.53183,
+                911.998961
+            ]
+        },
+        {
+            "name": "481/16A",
+            "position": [
+                41.53183,
+                912.125091
+            ]
+        },
+        {
+            "name": "481/16B",
+            "position": [
+                41.53183,
+                912.271005
+            ]
+        },
+        {
+            "name": "481/17A",
+            "position": [
+                41.53183,
+                912.414447
+            ]
+        },
+        {
+            "name": "481/18A",
+            "position": [
+                41.53183,
+                912.557888
+            ]
+        },
+        {
+            "name": "481/20A",
+            "position": [
+                41.53183,
+                912.671652
+            ]
+        },
+        {
+            "name": "481/20B",
+            "position": [
+                41.53183,
+                912.797781
+            ]
+        },
+        {
+            "name": "481/20C",
+            "position": [
+                41.53183,
+                912.943696
+            ]
+        },
+        {
+            "name": "481/21A",
+            "position": [
+                41.53183,
+                913.087137
+            ]
+        },
+        {
+            "name": "481/21B",
+            "position": [
+                41.53183,
+                913.230579
+            ]
+        },
+        {
+            "name": "482/2B",
+            "position": [
+                41.53183,
+                913.344342
+            ]
+        },
+        {
+            "name": "482/3B1A",
+            "position": [
+                41.53183,
+                913.470472
+            ]
+        },
+        {
+            "name": "482/3B1B1",
+            "position": [
+                41.53183,
+                913.616386
+            ]
+        },
+        {
+            "name": "482/3B1B2",
+            "position": [
+                41.53183,
+                913.759828
+            ]
+        },
+        {
+            "name": "482/3B1C1",
+            "position": [
+                41.53183,
+                913.903269
+            ]
+        },
+        {
+            "name": "482/3B1C2",
+            "position": [
+                41.53183,
+                914.017033
+            ]
+        },
+        {
+            "name": "482/3B2",
+            "position": [
+                41.53183,
+                914.143162
+            ]
+        },
+        {
+            "name": "482/4A",
+            "position": [
+                41.53183,
+                914.289077
+            ]
+        },
+        {
+            "name": "482/4B",
+            "position": [
+                41.53183,
+                914.432518
+            ]
+        },
+        {
+            "name": "482/4C",
+            "position": [
+                41.53183,
+                914.57596
+            ]
+        },
+        {
+            "name": "482/5A",
+            "position": [
+                41.53183,
+                914.689723
+            ]
+        },
+        {
+            "name": "482/5B",
+            "position": [
+                41.53183,
+                914.815853
+            ]
+        },
+        {
+            "name": "482/5C",
+            "position": [
+                41.53183,
+                914.961767
+            ]
+        },
+        {
+            "name": "482/6",
+            "position": [
+                41.53183,
+                915.118397
+            ]
+        },
+        {
+            "name": "482/10",
+            "position": [
+                41.53183,
+                915.23216
+            ]
+        },
+        {
+            "name": "482/11",
+            "position": [
+                41.53183,
+                915.35829
+            ]
+        },
+        {
+            "name": "482/12",
+            "position": [
+                41.53183,
+                915.504204
+            ]
+        },
+        {
+            "name": "483/1",
+            "position": [
+                41.53183,
+                915.660834
+            ]
+        },
+        {
+            "name": "483/2",
+            "position": [
+                41.53183,
+                915.774597
+            ]
+        },
+        {
+            "name": "483/3",
+            "position": [
+                41.53183,
+                915.900727
+            ]
+        },
+        {
+            "name": "483/7",
+            "position": [
+                41.53183,
+                916.046641
+            ]
+        },
+        {
+            "name": "483/10",
+            "position": [
+                41.53183,
+                916.190083
+            ]
+        },
+        {
+            "name": "483/11",
+            "position": [
+                41.53183,
+                916.316212
+            ]
+        },
+        {
+            "name": "483/12",
+            "position": [
+                41.53183,
+                916.462127
+            ]
+        },
+        {
+            "name": "486/1",
+            "position": [
+                41.53183,
+                916.605568
+            ]
+        },
+        {
+            "name": "486/2",
+            "position": [
+                41.53183,
+                916.751483
+            ]
+        },
+        {
+            "name": "486/3",
+            "position": [
+                41.53183,
+                916.894924
+            ]
+        },
+        {
+            "name": "486/4",
+            "position": [
+                41.53183,
+                917.021054
+            ]
+        },
+        {
+            "name": "486/5",
+            "position": [
+                41.53183,
+                917.166969
+            ]
+        },
+        {
+            "name": "486/6A",
+            "position": [
+                41.53183,
+                917.31041
+            ]
+        },
+        {
+            "name": "486/6B",
+            "position": [
+                41.53183,
+                917.453851
+            ]
+        },
+        {
+            "name": "486/8B",
+            "position": [
+                41.53183,
+                917.597293
+            ]
+        },
+        {
+            "name": "486/9",
+            "position": [
+                41.53183,
+                917.723422
+            ]
+        },
+        {
+            "name": "486/10",
+            "position": [
+                41.53183,
+                917.869337
+            ]
+        },
+        {
+            "name": "486/11A",
+            "position": [
+                41.53183,
+                918.012778
+            ]
+        },
+        {
+            "name": "487/2",
+            "position": [
+                41.53183,
+                918.15622
+            ]
+        },
+        {
+            "name": "487/3",
+            "position": [
+                41.53183,
+                918.299661
+            ]
+        },
+        {
+            "name": "487/4",
+            "position": [
+                41.53183,
+                918.425791
+            ]
+        },
+        {
+            "name": "487/5",
+            "position": [
+                41.53183,
+                918.571705
+            ]
+        },
+        {
+            "name": "487/6",
+            "position": [
+                41.53183,
+                918.715147
+            ]
+        },
+        {
+            "name": "487/7",
+            "position": [
+                41.53183,
+                918.858588
+            ]
+        },
+        {
+            "name": "487/8A",
+            "position": [
+                41.53183,
+                919.002029
+            ]
+        },
+        {
+            "name": "487/8B",
+            "position": [
+                41.53183,
+                919.147944
+            ]
+        },
+        {
+            "name": "487/9",
+            "position": [
+                41.53183,
+                919.291386
+            ]
+        },
+        {
+            "name": "487/10",
+            "position": [
+                41.53183,
+                919.434827
+            ]
+        },
+        {
+            "name": "487/11A",
+            "position": [
+                41.53183,
+                919.578268
+            ]
+        },
+        {
+            "name": "487/11B",
+            "position": [
+                41.53183,
+                919.724183
+            ]
+        },
+        {
+            "name": "487/12",
+            "position": [
+                41.53183,
+                919.867624
+            ]
+        },
+        {
+            "name": "487/13",
+            "position": [
+                41.53183,
+                920.011066
+            ]
+        },
+        {
+            "name": "487/14",
+            "position": [
+                41.53183,
+                920.154507
+            ]
+        },
+        {
+            "name": "488/2A1B",
+            "position": [
+                41.53183,
+                920.297949
+            ]
+        },
+        {
+            "name": "488/2A2",
+            "position": [
+                41.53183,
+                920.443863
+            ]
+        },
+        {
+            "name": "488/2A3",
+            "position": [
+                41.53183,
+                920.587305
+            ]
+        },
+        {
+            "name": "488/2B",
+            "position": [
+                41.53183,
+                920.730746
+            ]
+        },
+        {
+            "name": "489/1A",
+            "position": [
+                41.53183,
+                920.890642
+            ]
+        },
+        {
+            "name": "489/1B",
+            "position": [
+                41.53183,
+                921.034083
+            ]
+        },
+        {
+            "name": "489/2",
+            "position": [
+                41.53183,
+                921.179998
+            ]
+        },
+        {
+            "name": "489/3",
+            "position": [
+                41.53183,
+                921.323439
+            ]
+        },
+        {
+            "name": "489/4",
+            "position": [
+                41.53183,
+                921.46688
+            ]
+        },
+        {
+            "name": "489/5",
+            "position": [
+                41.53183,
+                921.626776
+            ]
+        },
+        {
+            "name": "489/6",
+            "position": [
+                41.53183,
+                921.770217
+            ]
+        },
+        {
+            "name": "489/7",
+            "position": [
+                41.53183,
+                921.916132
+            ]
+        },
+        {
+            "name": "517/1",
+            "position": [
+                41.53183,
+                922.059573
+            ]
+        },
+        {
+            "name": "517/2B",
+            "position": [
+                41.53183,
+                922.203015
+            ]
+        },
+        {
+            "name": "517/3",
+            "position": [
+                41.53183,
+                922.36291
+            ]
+        },
+        {
+            "name": "517/4B",
+            "position": [
+                41.53183,
+                922.506351
+            ]
+        },
+        {
+            "name": "517/5B",
+            "position": [
+                41.53183,
+                922.652266
+            ]
+        },
+        {
+            "name": "517/6",
+            "position": [
+                41.53183,
+                922.795708
+            ]
+        },
+        {
+            "name": "591/1A2",
+            "position": [
+                41.53183,
+                922.939149
+            ]
+        },
+        {
+            "name": "591/1A3",
+            "position": [
+                41.53183,
+                923.08259
+            ]
+        },
+        {
+            "name": "591/1B",
+            "position": [
+                41.53183,
+                923.226032
+            ]
+        },
+        {
+            "name": "591/1A1B",
+            "position": [
+                41.53183,
+                923.369473
+            ]
+        },
+        {
+            "name": "SHEET NO:20",
+            "position": [
+                507.611197,
+                910.838907
+            ]
+        },
+        {
+            "name": "KOIL PURAM",
+            "position": [
+                502.093865,
+                920.899198
+            ]
+        },
+        {
+            "name": "POTTAKULAM",
+            "position": [
+                496.651636,
+                911.896335
+            ]
+        },
+        {
+            "name": "THUVAZAN KULAM",
+            "position": [
+                494.294901,
+                916.870754
+            ]
+        },
+        {
+            "name": "AMMAN KOIL",
+            "position": [
+                493.936196,
+                914.506942
+            ]
+        },
+        {
+            "name": "SCHOOL",
+            "position": [
+                501.16067,
+                913.938773
+            ]
+        },
+        {
+            "name": "MANUEL KULAM",
+            "position": [
+                498.217334,
+                914.05279
+            ]
+        },
+        {
+            "name": "UTTRU",
+            "position": [
+                503.544951,
+                919.875426
+            ]
+        },
+        {
+            "name": "V A C A N T",
+            "position": [
+                495.669542,
+                916.241265
+            ]
+        },
+        {
+            "name": "SEVAI KULAM",
+            "position": [
+                500.444581,
+                918.684188
+            ]
+        },
+        {
+            "name": "POOCHI KULAM",
+            "position": [
+                495.62488,
+                919.07114
+            ]
+        },
+        {
+            "name": "PECHIAMMAN KOIL",
+            "position": [
+                496.34768,
+                919.20053
+            ]
+        },
+        {
+            "name": "TO PILLAI THOPPU",
+            "position": [
+                496.637597,
+                921.308425
+            ]
+        },
+        {
+            "name": "RAJAKAMANGALAM ROAD",
+            "position": [
+                498.261302,
+                913.052829
+            ]
+        },
+        {
+            "name": "%%U488/2B",
+            "position": [
+                500.545941,
+                916.724316
+            ]
+        },
+        {
+            "name": "%%U487/1",
+            "position": [
+                499.608313,
+                916.5262
+            ]
+        },
+        {
+            "name": "\\L478/3",
+            "position": [
+                497.457048,
+                917.281801
+            ]
+        },
+        {
+            "name": "\\L478/10B",
+            "position": [
+                497.681383,
+                918.061074
+            ]
+        },
+        {
+            "name": "%%U484",
+            "position": [
+                498.458479,
+                918.531271
+            ]
+        },
+        {
+            "name": "%%U485",
+            "position": [
+                498.806283,
+                918.451206
+            ]
+        },
+        {
+            "name": "%%U486/9",
+            "position": [
+                499.639735,
+                918.016746
+            ]
+        },
+        {
+            "name": "%%U482/10",
+            "position": [
+                497.845815,
+                917.325422
+            ]
+        },
+        {
+            "name": "%%U483/7",
+            "position": [
+                498.439948,
+                918.266304
+            ]
+        },
+        {
+            "name": "\\L478/2A",
+            "position": [
+                497.608151,
+                917.08708
+            ]
+        },
+        {
+            "name": "%%U482/11",
+            "position": [
+                498.017078,
+                917.411477
+            ]
+        },
+        {
+            "name": "%%U478/10A2",
+            "position": [
+                498.032765,
+                917.72944
+            ]
+        },
+        {
+            "name": "%%U478/10A1A",
+            "position": [
+                497.799417,
+                917.602851
+            ]
+        },
+        {
+            "name": "%%U482/9",
+            "position": [
+                498.059694,
+                917.189518
+            ]
+        },
+        {
+            "name": "%%U482/8",
+            "position": [
+                498.125498,
+                917.075488
+            ]
+        },
+        {
+            "name": "%%U482/7",
+            "position": [
+                498.282674,
+                916.854728
+            ]
+        },
+        {
+            "name": "%%U481/14A",
+            "position": [
+                498.117131,
+                916.121675
+            ]
+        },
+        {
+            "name": "%%U481/13",
+            "position": [
+                498.362965,
+                916.162995
+            ]
+        },
+        {
+            "name": "%%U481/18B",
+            "position": [
+                497.637466,
+                916.153264
+            ]
+        },
+        {
+            "name": "%%U481/17B",
+            "position": [
+                497.781767,
+                916.211932
+            ]
+        },
+        {
+            "name": "%%U478/1A",
+            "position": [
+                497.453038,
+                916.397895
+            ]
+        },
+        {
+            "name": "%%U478/1B",
+            "position": [
+                497.378395,
+                916.530307
+            ]
+        },
+        {
+            "name": "%%U478/2B",
+            "position": [
+                497.558194,
+                916.577306
+            ]
+        },
+        {
+            "name": "%%U478/2C",
+            "position": [
+                497.63536,
+                916.460109
+            ]
+        },
+        {
+            "name": "%%U481/14B",
+            "position": [
+                498.017699,
+                916.286568
+            ]
+        },
+        {
+            "name": "%%U481/15",
+            "position": [
+                498.005455,
+                916.458072
+            ]
+        },
+        {
+            "name": "%%U481/16",
+            "position": [
+                497.966503,
+                916.520096
+            ]
+        },
+        {
+            "name": "%%U481/20",
+            "position": [
+                497.775943,
+                916.623241
+            ]
+        },
+        {
+            "name": "%%U481/21",
+            "position": [
+                498.052874,
+                916.631915
+            ]
+        },
+        {
+            "name": "%%U482/5",
+            "position": [
+                498.3827,
+                916.58601
+            ]
+        },
+        {
+            "name": "%%U482/2B",
+            "position": [
+                498.680048,
+                916.37857
+            ]
+        },
+        {
+            "name": "%%U482/4",
+            "position": [
+                498.593079,
+                916.742979
+            ]
+        },
+        {
+            "name": "%%U483/3",
+            "position": [
+                498.250777,
+                917.901196
+            ]
+        },
+        {
+            "name": "%%U483/2",
+            "position": [
+                498.395568,
+                917.817371
+            ]
+        },
+        {
+            "name": "%%U483/10",
+            "position": [
+                498.605461,
+                918.036635
+            ]
+        },
+        {
+            "name": "%%U483/11",
+            "position": [
+                498.678374,
+                918.304437
+            ]
+        },
+        {
+            "name": "%%U483/12",
+            "position": [
+                498.756973,
+                918.362425
+            ]
+        },
+        {
+            "name": "%%U483/1",
+            "position": [
+                498.676213,
+                917.634243
+            ]
+        },
+        {
+            "name": "%%U482/12",
+            "position": [
+                498.269629,
+                917.421413
+            ]
+        },
+        {
+            "name": "%%U482/3B2",
+            "position": [
+                498.752553,
+                917.26148
+            ]
+        },
+        {
+            "name": "%%U482/6",
+            "position": [
+                498.439782,
+                917.072876
+            ]
+        },
+        {
+            "name": "%%U482/3B1A",
+            "position": [
+                499.224971,
+                916.440025
+            ]
+        },
+        {
+            "name": "%%U482/3B1B",
+            "position": [
+                499.114087,
+                916.735459
+            ]
+        },
+        {
+            "name": "%%U482/3B1C",
+            "position": [
+                498.861865,
+                916.953484
+            ]
+        },
+        {
+            "name": "%%U517/6",
+            "position": [
+                501.433875,
+                917.47303
+            ]
+        },
+        {
+            "name": "%%U517/4B",
+            "position": [
+                501.447961,
+                917.745184
+            ]
+        },
+        {
+            "name": "%%U517/3",
+            "position": [
+                501.174108,
+                917.687545
+            ]
+        },
+        {
+            "name": "%%U517/2B",
+            "position": [
+                500.958697,
+                917.577139
+            ]
+        },
+        {
+            "name": "%%U517/1",
+            "position": [
+                501.133874,
+                917.381702
+            ]
+        },
+        {
+            "name": "%%U488/2A2",
+            "position": [
+                500.550051,
+                917.128537
+            ]
+        },
+        {
+            "name": "%%U488/2A1A",
+            "position": [
+                499.845562,
+                916.429099
+            ]
+        },
+        {
+            "name": "%%U487/14",
+            "position": [
+                499.760623,
+                916.682615
+            ]
+        },
+        {
+            "name": "%%U487/2",
+            "position": [
+                499.901735,
+                916.72155
+            ]
+        },
+        {
+            "name": "%%U487/7",
+            "position": [
+                499.540813,
+                916.858848
+            ]
+        },
+        {
+            "name": "%%U487/6",
+            "position": [
+                499.643954,
+                916.883726
+            ]
+        },
+        {
+            "name": "%%U487/5",
+            "position": [
+                499.735958,
+                916.915501
+            ]
+        },
+        {
+            "name": "%%U487/4",
+            "position": [
+                499.818807,
+                916.95335
+            ]
+        },
+        {
+            "name": "%%U487/3",
+            "position": [
+                499.905196,
+                916.974127
+            ]
+        },
+        {
+            "name": "%%U487/8",
+            "position": [
+                499.647394,
+                917.098778
+            ]
+        },
+        {
+            "name": "%%U488/2A3",
+            "position": [
+                500.14865,
+                917.279685
+            ]
+        },
+        {
+            "name": "%%U489/7",
+            "position": [
+                500.446621,
+                917.669114
+            ]
+        },
+        {
+            "name": "%%U489/6",
+            "position": [
+                500.40397,
+                917.803879
+            ]
+        },
+        {
+            "name": "%%U489/4",
+            "position": [
+                500.299072,
+                917.770104
+            ]
+        },
+        {
+            "name": "%%U486/10",
+            "position": [
+                499.85777,
+                917.995321
+            ]
+        },
+        {
+            "name": "%%U489/2",
+            "position": [
+                499.891605,
+                917.745888
+            ]
+        },
+        {
+            "name": "%%U489/1A",
+            "position": [
+                499.969425,
+                917.467523
+            ]
+        },
+        {
+            "name": "%%U489/3",
+            "position": [
+                500.197985,
+                917.636067
+            ]
+        },
+        {
+            "name": "%%U489/1B",
+            "position": [
+                499.858922,
+                917.493898
+            ]
+        },
+        {
+            "name": "%%U486/5",
+            "position": [
+                499.003944,
+                918.086792
+            ]
+        },
+        {
+            "name": "%%U486/6B",
+            "position": [
+                499.201756,
+                918.07523
+            ]
+        },
+        {
+            "name": "%%U486/8B",
+            "position": [
+                499.516771,
+                918.015764
+            ]
+        },
+        {
+            "name": "%%U486/3",
+            "position": [
+                499.31636,
+                917.891438
+            ]
+        },
+        {
+            "name": "%%U486/4",
+            "position": [
+                499.108771,
+                917.825509
+            ]
+        },
+        {
+            "name": "%%U486/1",
+            "position": [
+                499.283491,
+                917.642311
+            ]
+        },
+        {
+            "name": "%%U486/2",
+            "position": [
+                499.562651,
+                917.755656
+            ]
+        },
+        {
+            "name": "%%U487/11A",
+            "position": [
+                499.220498,
+                917.424453
+            ]
+        },
+        {
+            "name": "%%U487/11B",
+            "position": [
+                499.562803,
+                917.539785
+            ]
+        },
+        {
+            "name": "%%U487/10",
+            "position": [
+                499.211047,
+                917.264526
+            ]
+        },
+        {
+            "name": "%%U487/9",
+            "position": [
+                499.489268,
+                917.364603
+            ]
+        },
+        {
+            "name": "%%U487/12",
+            "position": [
+                499.446746,
+                917.200516
+            ]
+        },
+        {
+            "name": "%%U487/13",
+            "position": [
+                499.706169,
+                917.271602
+            ]
+        },
+        {
+            "name": "%%UVACANT",
+            "position": [
+                498.205787,
+                916.896692
+            ]
+        },
+        {
+            "name": "%%U481/18A",
+            "position": [
+                497.653158,
+                915.963733
+            ]
+        },
+        {
+            "name": "%%U481/17A",
+            "position": [
+                497.778268,
+                916.043938
+            ]
+        },
+        {
+            "name": "%%U481/6B",
+            "position": [
+                497.712857,
+                915.89114
+            ]
+        },
+        {
+            "name": "%%U481/8B",
+            "position": [
+                497.914919,
+                915.899997
+            ]
+        },
+        {
+            "name": "%%U481/9B",
+            "position": [
+                498.079845,
+                915.918938
+            ]
+        },
+        {
+            "name": "%%U488/2A1B",
+            "position": [
+                500.1783,
+                916.661285
+            ]
+        },
+        {
+            "name": "%%U591/1A2",
+            "position": [
+                500.827914,
+                916.699764
+            ]
+        },
+        {
+            "name": "%%USCALE 1:2000",
+            "position": [
+                495.056287,
+                922.742406
+            ]
+        },
+        {
+            "name": "%%UTOPO PLAN",
+            "position": [
+                495.085344,
+                922.579973
+            ]
+        },
+        {
+            "name": "TO PARAMAN VILAI 4.57 M",
+            "position": [
+                499.867175,
+                918.600066
+            ]
+        },
+        {
+            "name": "TREES THOPPU",
+            "position": [
+                497.24217,
+                917.069355
+            ]
+        },
+        {
+            "name": "481/12",
+            "position": [
+                497.698593,
+                915.942245
+            ]
+        },
+        {
+            "name": "%%U591",
+            "position": [
+                501.346927,
+                916.991942
+            ]
+        },
+        {
+            "name": "%%UAPPLICANT'S  SITE",
+            "position": [
+                498.71413,
+                917.040483
+            ]
+        },
+        {
+            "name": "TO  COLLACHEL",
+            "position": [
+                495.997662,
+                912.348097
+            ]
+        },
+        {
+            "name": "STAIRCASE DETAIL (N.T.S)}",
+            "position": [
+                479.022504,
+                923.107608
+            ]
+        },
+        {
+            "name": "%%UCOLUMN FOOTING DETAILS",
+            "position": [
+                478.841504,
+                921.176125
+            ]
+        },
+        {
+            "name": "%%UCOLUMN DETAILS",
+            "position": [
+                479.176478,
+                919.787037
+            ]
+        },
+        {
+            "name": "10MM O     BOTH WAY 0.17MM C/C",
+            "position": [
+                479.890212,
+                919.408169
+            ]
+        },
+        {
+            "name": "20MM O     8NOS",
+            "position": [
+                479.74758,
+                918.882456
+            ]
+        },
+        {
+            "name": "8MM  STIRRUPS O   0.17MM C/C",
+            "position": [
+                479.732118,
+                919.016465
+            ]
+        },
+        {
+            "name": "PC.C. WITH  1:4:8",
+            "position": [
+                480.088835,
+                919.525477
+            ]
+        },
+        {
+            "name": "SAND FILLING",
+            "position": [
+                482.929748,
+                920.173222
+            ]
+        },
+        {
+            "name": "\\LFIRE EXTINGUSHIER (N.T.S)",
+            "position": [
+                480.806005,
+                923.042353
+            ]
+        },
+        {
+            "name": "SAND BUCKETS (N.T.S)}",
+            "position": [
+                482.321472,
+                923.070872
+            ]
+        },
+        {
+            "name": "PUMP",
+            "position": [
+                487.839435,
+                919.003858
+            ]
+        },
+        {
+            "name": "SETTLING",
+            "position": [
+                484.950155,
+                923.100245
+            ]
+        },
+        {
+            "name": "AERATION",
+            "position": [
+                484.078886,
+                920.234004
+            ]
+        },
+        {
+            "name": "EQUALISATION",
+            "position": [
+                484.269682,
+                922.3383
+            ]
+        },
+        {
+            "name": "BAR SCREEN",
+            "position": [
+                484.690951,
+                922.119638
+            ]
+        },
+        {
+            "name": "CHAMBER",
+            "position": [
+                484.692199,
+                922.183781
+            ]
+        },
+        {
+            "name": "SLUDGE",
+            "position": [
+                485.759103,
+                922.287273
+            ]
+        },
+        {
+            "name": "DRYING BED",
+            "position": [
+                485.757388,
+                922.351417
+            ]
+        },
+        {
+            "name": "TO BAR SCREEN",
+            "position": [
+                486.355237,
+                918.862207
+            ]
+        },
+        {
+            "name": "CLARIFIED",
+            "position": [
+                485.424128,
+                922.530723
+            ]
+        },
+        {
+            "name": "WATER TANK",
+            "position": [
+                484.768556,
+                918.944588
+            ]
+        },
+        {
+            "name": "FINAL",
+            "position": [
+                486.194878,
+                920.630749
+            ]
+        },
+        {
+            "name": "SUMP",
+            "position": [
+                486.196853,
+                920.694893
+            ]
+        },
+        {
+            "name": "ACTIVATED",
+            "position": [
+                485.42193,
+                918.859306
+            ]
+        },
+        {
+            "name": "CARBON",
+            "position": [
+                485.420645,
+                918.910503
+            ]
+        },
+        {
+            "name": "FILTER",
+            "position": [
+                485.421553,
+                918.961699
+            ]
+        },
+        {
+            "name": "TO AEROBIC DEGESTOR",
+            "position": [
+                484.403937,
+                918.445418
+            ]
+        },
+        {
+            "name": "FROM SECONDRY CHAMPER",
+            "position": [
+                485.88244,
+                918.444958
+            ]
+        },
+        {
+            "name": "CHLORINATOR",
+            "position": [
+                485.421911,
+                918.520581
+            ]
+        },
+        {
+            "name": "%%UDOMESTIC  EFFLUNT TREATMENT",
+            "position": [
+                484.664503,
+                919.082769
+            ]
+        },
+        {
+            "name": "%%UPLANT HYDRALIC FLOW DIAGRAM",
+            "position": [
+                484.66335,
+                919.189355
+            ]
+        },
+        {
+            "name": "DRAIN CHANNEL",
+            "position": [
+                485.84884,
+                920.965307
+            ]
+        },
+        {
+            "name": "PCC BED",
+            "position": [
+                485.851067,
+                921.030402
+            ]
+        },
+        {
+            "name": "COURSE SAND",
+            "position": [
+                485.325133,
+                920.363968
+            ]
+        },
+        {
+            "name": "300tk",
+            "position": [
+                485.325549,
+                920.427617
+            ]
+        },
+        {
+            "name": "BROKEN",
+            "position": [
+                485.309184,
+                920.578879
+            ]
+        },
+        {
+            "name": "STONE 300tk",
+            "position": [
+                485.310691,
+                920.643049
+            ]
+        },
+        {
+            "name": "SETTILING",
+            "position": [
+                484.411807,
+                920.311003
+            ]
+        },
+        {
+            "name": "AERATION TANK",
+            "position": [
+                484.328271,
+                922.57121
+            ]
+        },
+        {
+            "name": "PUMP CUM",
+            "position": [
+                484.939363,
+                922.581319
+            ]
+        },
+        {
+            "name": "MCC ROOM",
+            "position": [
+                484.939519,
+                922.645489
+            ]
+        },
+        {
+            "name": "WATER",
+            "position": [
+                485.426129,
+                922.594217
+            ]
+        },
+        {
+            "name": "FINAL SUMP",
+            "position": [
+                485.402186,
+                922.807019
+            ]
+        },
+        {
+            "name": "ROLLING",
+            "position": [
+                485.097612,
+                922.295923
+            ]
+        },
+        {
+            "name": "SHUTTER",
+            "position": [
+                485.099405,
+                922.360067
+            ]
+        },
+        {
+            "name": "%%USEWAGE TREATMENT PLANT PLAN",
+            "position": [
+                484.655399,
+                923.258298
+            ]
+        },
+        {
+            "name": "C",
+            "position": [
+                485.289405,
+                922.022768
+            ]
+        },
+        {
+            "name": "%%USECTION AB",
+            "position": [
+                484.212148,
+                921.098155
+            ]
+        },
+        {
+            "name": "%%USECTION CD",
+            "position": [
+                485.670565,
+                921.18042
+            ]
+        },
+        {
+            "name": "%%UDETAILS OF SOLAR WATER HEATER %%U(N.T.S.)",
+            "position": [
+                486.972648,
+                919.58649
+            ]
+        },
+        {
+            "name": "RETURN HEADER",
+            "position": [
+                487.833037,
+                919.137218
+            ]
+        },
+        {
+            "name": "SHUTT OFF VALVE",
+            "position": [
+                486.971525,
+                918.0547
+            ]
+        },
+        {
+            "name": "x",
+            "position": [
+                488.093117,
+                918.93173
+            ]
+        },
+        {
+            "name": "SOLAR COLLECTORS",
+            "position": [
+                487.839435,
+                918.791453
+            ]
+        },
+        {
+            "name": "UPPER HEADER",
+            "position": [
+                486.972398,
+                918.550031
+            ]
+        },
+        {
+            "name": "PERFORATOR PIPE",
+            "position": [
+                486.971525,
+                918.214503
+            ]
+        },
+        {
+            "name": "DRAIN",
+            "position": [
+                486.909878,
+                919.122958
+            ]
+        },
+        {
+            "name": "LOWER HEADER",
+            "position": [
+                486.968597,
+                919.332162
+            ]
+        },
+        {
+            "name": "PUMP FOR FORCED FLOW",
+            "position": [
+                488.176113,
+                918.937441
+            ]
+        },
+        {
+            "name": "(500 LPD AND ABOVE)",
+            "position": [
+                488.176113,
+                919.005319
+            ]
+        },
+        {
+            "name": "COLD WATER INLET",
+            "position": [
+                488.142139,
+                918.015348
+            ]
+        },
+        {
+            "name": "HOT WATER",
+            "position": [
+                488.476989,
+                918.172486
+            ]
+        },
+        {
+            "name": "TAMPERING VALVE",
+            "position": [
+                488.476989,
+                918.309962
+            ]
+        },
+        {
+            "name": "HEATING ELEMENT",
+            "position": [
+                488.476989,
+                918.390389
+            ]
+        },
+        {
+            "name": "STORAGE TANK",
+            "position": [
+                488.475326,
+                918.519919
+            ]
+        },
+        {
+            "name": "DRAIN VALVE",
+            "position": [
+                488.558165,
+                918.587772
+            ]
+        },
+        {
+            "name": "Cells",
+            "position": [
+                481.573413,
+                918.518449
+            ]
+        },
+        {
+            "name": "%%USOLAR SYSTEMS %%U(N.T.S.)",
+            "position": [
+                480.734021,
+                919.098621
+            ]
+        },
+        {
+            "name": "Control Panel",
+            "position": [
+                481.188858,
+                919.747604
+            ]
+        },
+        {
+            "name": "Step Up",
+            "position": [
+                481.246988,
+                920.522928
+            ]
+        },
+        {
+            "name": "A.C. Panel",
+            "position": [
+                481.230596,
+                920.182545
+            ]
+        },
+        {
+            "name": "Transformer",
+            "position": [
+                481.197659,
+                920.578208
+            ]
+        },
+        {
+            "name": "11Kv/440v",
+            "position": [
+                481.21506,
+                920.642673
+            ]
+        },
+        {
+            "name": "11KvGrid Line",
+            "position": [
+                481.183854,
+                921.015429
+            ]
+        },
+        {
+            "name": "%%USOLAR SYSTEM",
+            "position": [
+                480.952698,
+                921.294418
+            ]
+        },
+        {
+            "name": "%%U FLOW DIAGRAM (N.T.S)",
+            "position": [
+                480.767956,
+                921.425037
+            ]
+        },
+        {
+            "name": "PERFORTED SLAB",
+            "position": [
+                482.768377,
+                918.223685
+            ]
+        },
+        {
+            "name": "WITH HOLES",
+            "position": [
+                482.768377,
+                918.286082
+            ]
+        },
+        {
+            "name": "B.W.WITH HOLES",
+            "position": [
+                482.929748,
+                920.650973
+            ]
+        },
+        {
+            "name": "BRICK JELLY BED",
+            "position": [
+                482.771217,
+                918.505921
+            ]
+        },
+        {
+            "name": "P.C.C. 1:5:10 MIX",
+            "position": [
+                482.773281,
+                918.723554
+            ]
+        },
+        {
+            "name": "G.L.",
+            "position": [
+                482.01467,
+                920.246293
+            ]
+        },
+        {
+            "name": "%%UPERCOLATION PIT",
+            "position": [
+                482.1903,
+                919.199103
+            ]
+        },
+        {
+            "name": "PERFORATED SLAB",
+            "position": [
+                482.929748,
+                920.073289
+            ]
+        },
+        {
+            "name": "BROKEN BRICK",
+            "position": [
+                482.929748,
+                920.378881
+            ]
+        },
+        {
+            "name": "P.C.C 1:5:10",
+            "position": [
+                482.929748,
+                920.940019
+            ]
+        },
+        {
+            "name": "\u2205",
+            "position": [
+                482.315608,
+                921.373355
+            ]
+        },
+        {
+            "name": "%%URAIN WATER PERCOLATION",
+            "position": [
+                482.009216,
+                921.76421
+            ]
+        },
+        {
+            "name": "(N.T.S.)",
+            "position": [
+                482.471857,
+                919.250919
+            ]
+        },
+        {
+            "name": "F.F.L",
+            "position": [
+                479.17733,
+                922.667215
+            ]
+        },
+        {
+            "name": "RISE-0.15",
+            "position": [
+                479.76864,
+                922.775901
+            ]
+        },
+        {
+            "name": "TREAD-0.30",
+            "position": [
+                479.762754,
+                922.869945
+            ]
+        },
+        {
+            "name": "HANDRAIL  1.20M HT.",
+            "position": [
+                479.752488,
+                922.243312
+            ]
+        },
+        {
+            "name": "Applicant :",
+            "position": [
+                486.949597,
+                923.326167
+            ]
+        },
+        {
+            "name": "Registered  Engineer",
+            "position": [
+                488.024489,
+                923.354872
+            ]
+        },
+        {
+            "name": "OFFICE USE:",
+            "position": [
+                486.910887,
+                919.87614
+            ]
+        },
+        {
+            "name": "SHEET NO: 19",
+            "position": [
+                488.562462,
+                916.499275
+            ]
+        },
+        {
+            "name": "PLAN = 1:2000",
+            "position": [
+                507.159894,
+                913.793202
+            ]
+        },
+        {
+            "name": "APPLICANT SITE   BOUNDARY",
+            "position": [
+                506.005311,
+                914.274868
+            ]
+        },
+        {
+            "name": "EXISTING  ROAD / STREET",
+            "position": [
+                506.024323,
+                914.471418
+            ]
+        },
+        {
+            "name": "EXISTING  BUILDING",
+            "position": [
+                506.027013,
+                914.653053
+            ]
+        },
+        {
+            "name": "WATER BODIES",
+            "position": [
+                506.027013,
+                915.023867
+            ]
+        },
+        {
+            "name": "SITE BELONGS TO  OTHER OWNER",
+            "position": [
+                506.027013,
+                914.858813
+            ]
+        },
+        {
+            "name": "PLAN SHOWING THE PROPOSED  ADDITIONALCONSTRUCTION  OF  STELLA  MARY'S  COLLEGEOF ENGINEERING  BUILDING  BEARING DOORNO: 19/54-3,  ARUNTHENGANVILAI,  RE.SY.NOS:478/1B1,478/1B2, 478/2B1,478/2B2, 478/10A1A,478/10A1B,478/10A2, 481/6B, 481/8B, 481/9B, 481/13,481/14A,481/14B, 481/15, 481/16A,481/16B, 481/17A,481/18A, 481/20A, 481/20B,481/20C,481/21A,481/21B,482/2B, 482/3B1A, 482/3B1B1,482/3B1B2,482/3B1C1,482/3B1C2, 482/3B2, 482/4A,482/4B, 482/4C, 482/5A,482/5B,482/5C,482/6, 482/10,482/11,482/12, 483/1,483/2, 483/3, 483/7, 483/10, 483/11,483/12, 486/1,486/2, 486/3, 486/4, 486/5, 486/6B,486/6A,486/8B,486/9,486/10, 486/11A, 487/2,487/3, 487/4,487/5, 487/6, 487/7,487/8A,487/8B,487/9, 487/10,487/11A, 487/11B, 487/12,487/13,487/14,488/2A1B,488/2A2, 488/2A3, 488/2B,489/1A,489/1B, 489/2,489/3, 489/4,489/5, 489/6,489/7,517/1,517/2B,517/3, 517/4B, 517/5B, 517/6, 591/1A2,591/1A3,591/1B, 591/1A1B, OF NEENDAKARAI 'B'VILLAGE,GANAPATHIPURAM TOWNPANCHAYAT, AGASTHEESWARAM TALUK,  KANYAKUMARI DISTRICT.}",
+            "position": [
+                469.951633,
+                916.380068
+            ]
+        },
+        {
+            "name": "PLAN SHOWING THE PROPOSED  ADDITIONAL CONSTRUCTION  OF  STELLA  MARY'S  COLLEGE OF ENGINEERING  BUILDING  BEARING DOOR NO: 19/54-3,  ARUNTHENGANVILAI,  RE.SY.NOS:478/1B1,478/1B2,478/2B1,478/2B2, 478/10A1A,478/10A1B,478/10A2, 481/6B, 481/8B, 481/9B, 481/13,481/14A,481/14B, 481/15, 481/16A,481/16B, 481/17A,481/18A, 481/20A, 481/20B,481/20C,481/21A,481/21B,482/2B, 482/3B1A, 482/3B1B1,482/3B1B2,482/3B1C1,482/3B1C2, 482/3B2, 482/4A,482/4B, 482/4C, 482/5A,482/5B,482/5C,482/6, 482/10,482/11,482/12, 483/1,483/2, 483/3, 483/7, 483/10, 483/11,483/12, 486/1,486/2, 486/3, 486/4, 486/5, 486/6B,486/6A,486/8B,486/9,486/10, 486/11A, 487/2,487/3, 487/4,487/5, 487/6, 487/7,487/8A,487/8B,487/9, 487/10,487/11A, 487/11B, 487/12,487/13,487/14,488/2A1B,488/2A2, 488/2A3, 488/2B,489/1A,489/1B, 489/2,489/3, 489/4,489/5, 489/6,489/7,517/1,517/2B,517/3, 517/4B,517/5B, 517/6, 591/1A2,591/1A3,591/1B, 591/1A1B, OF NEENDAKARAI 'B'VILLAGE,GANAPATHIPURAM TOWN PANCHAYAT, AGASTHEESWARAM TALUK,  KANYAKUMARI DISTRICT.}",
+            "position": [
+                478.799923,
+                916.782657
+            ]
+        },
+        {
+            "name": "TOPO PLAN SHOWING THE PROPOSEDADDITIONAL CONSTRUCTION  OF  STELLAMARY'S  COLLEGE OF ENGINEERING  BUILDINGBEARING DOOR NO: 19/54-3,ARUNTHENGANVILAI,  RE.SY.NOS:478/1B1,478/1B2, 478/2B1,478/2B2, 478/10A1A,478/10A1B, 478/10A2, 481/6B, 481/8B, 481/9B, 481/13,481/14A,481/14B, 481/15, 481/16A,481/16B, 481/17A,481/18A,481/20A, 481/20B,481/20C,481/21A,481/21B,482/2B,482/3B1A, 482/3B1B1,482/3B1B2,482/3B1C1,482/3B1C2, 482/3B2, 482/4A,482/4B, 482/4C, 482/5A,482/5B,482/5C,482/6, 482/10,482/11,482/12, 483/1,483/2, 483/3, 483/7, 483/10, 483/11,483/12, 486/1,486/2, 486/3, 486/4, 486/5, 486/6B,486/6A,486/8B,486/9,486/10, 486/11A, 487/2,487/3, 487/4,487/5, 487/6, 487/7,487/8A,487/8B,487/9, 487/10,487/11A, 487/11B, 487/12,487/13,487/14,488/2A1B,488/2A2, 488/2A3, 488/2B,489/1A,489/1B, 489/2,489/3, 489/4,489/5, 489/6,489/7,517/1,517/2B,517/3, 517/4B, 517/5B, 517/6, 591/1A2,591/1A3,591/1B, 591/1A1B, OF NEENDAKARAI 'B'VILLAGE,GANAPATHIPURAM TOWNPANCHAYAT, AGASTHEESWARAM TALUK,  KANYAKUMARI DISTRICT.}",
+            "position": [
+                505.815118,
+                910.898122
+            ]
+        },
+        {
+            "name": "%%U486/6A",
+            "position": [
+                499.14181,
+                918.220126
+            ]
+        },
+        {
+            "name": "ROOM 2",
+            "position": [
+                376.28177,
+                902.530804
+            ]
+        },
+        {
+            "name": "ROOM 3",
+            "position": [
+                381.805658,
+                900.35398
+            ]
+        },
+        {
+            "name": "ROOM 4",
+            "position": [
+                387.591149,
+                900.31712
+            ]
+        },
+        {
+            "name": "ROOM 5",
+            "position": [
+                389.305999,
+                900.327755
+            ]
+        },
+        {
+            "name": "ROOM 6",
+            "position": [
+                391.397262,
+                900.315694
+            ]
+        },
+        {
+            "name": "ROOM 7",
+            "position": [
+                393.903345,
+                905.563284
+            ]
+        },
+        {
+            "name": "ROOM 8",
+            "position": [
+                393.899243,
+                907.862822
+            ]
+        },
+        {
+            "name": "ROOM 9",
+            "position": [
+                393.992274,
+                910.213897
+            ]
+        },
+        {
+            "name": "ROOM 1",
+            "position": [
+                376.220453,
+                906.019479
+            ]
+        },
+        {
+            "name": "Fire escape",
+            "position": [
+                388.357551,
+                902.12388
+            ]
+        },
+        {
+            "name": "BLOCK 06(College Building)",
+            "position": [
+                282.352849,
+                897.658876
+            ]
+        },
+        {
+            "name": "( 1:12 Slope)",
+            "position": [
+                318.745855,
+                919.208313
+            ]
+        },
+        {
+            "name": "BLOCK01(Administrative Building)",
+            "position": [
+                507.343039,
+                911.537007
+            ]
+        },
+        {
+            "name": "BLOCK04(Boys Hostel Building)",
+            "position": [
+                630.462452,
+                913.039521
+            ]
+        },
+        {
+            "name": "BLOCK03(Girls Hostel Building)",
+            "position": [
+                695.24759,
+                917.129991
+            ]
+        },
+        {
+            "name": "BLOCK05(Lab Building)",
+            "position": [
+                754.386516,
+                910.336441
+            ]
+        },
+        {
+            "name": "ROOM 10",
+            "position": [
+                393.95297,
+                914.639238
+            ]
+        },
+        {
+            "name": "ROOM 11",
+            "position": [
+                393.925121,
+                917.609928
+            ]
+        },
+        {
+            "name": "ROOM 12",
+            "position": [
+                389.944991,
+                919.539219
+            ]
+        },
+        {
+            "name": "ROOM 13",
+            "position": [
+                357.111237,
+                919.363147
+            ]
+        }
+    ],
+    "edges": []
+}
