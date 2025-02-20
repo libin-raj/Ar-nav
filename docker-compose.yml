@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/app  # Mounts backend code for live changes
+    networks:
+      - nav-network
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app  # Mounts frontend code for live changes
+      - /app/node_modules  # Prevents container issues with node_modules
+    networks:
+      - nav-network
+
+networks:
+  nav-network:
+    driver: bridge

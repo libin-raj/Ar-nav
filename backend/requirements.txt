@@ -1,0 +1,4 @@
+flask
+networkx
+axios
+flask_cors
